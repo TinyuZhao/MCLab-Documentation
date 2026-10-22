@@ -1,0 +1,11 @@
+.. |thermal_example.png| image:: ../static/unit/thermal/thermal_example.png
+.. |thermal_example.m5f| replace:: :download:`thermal_example.m5f <../../../examples/ednex/unit/thermal/thermal_example.m5f>`
+
+.. |get_max_temperature.png| image:: ../static/unit/thermal/get_max_temperature.png
+.. |get_min_temperature.png| image:: ../static/unit/thermal/get_min_temperature.png
+.. |get_center_temperature.png| image:: ../static/unit/thermal/get_center_temperature.png
+.. |get_pixel_temperature.png| image:: ../static/unit/thermal/get_pixel_temperature.png
+.. |get_temperature.png| image:: ../static/unit/thermal/get_temperature.png
+.. |set_refresh_rate.png| image:: ../static/unit/thermal/set_refresh_rate.png
+.. |get_refresh_rate.png| image:: ../static/unit/thermal/get_refresh_rate.png
+.. |update_temperature.png| image:: ../static/unit/thermal/update_temperature.png

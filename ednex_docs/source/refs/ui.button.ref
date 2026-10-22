@@ -1,0 +1,18 @@
+.. |button_example.png| image:: ../static/ui/button/button_example.png
+.. |button_example.m5f| replace:: :download:`button_example.m5f <../../../examples/ednex/ui/button/button_example.m5f>`
+
+.. |set_bg_color.png| image:: ../static/ui/button/set_bgcolor.png
+.. |set_bg_color_rgb.png| image:: ../static/ui/button/set_bgcolor_rgb.png
+.. |set_bg_color_input.png| image:: ../static/ui/button/set_bgcolor_input.png
+.. |set_btn_text.png| image:: ../static/ui/button/set_text.png
+.. |set_btn_text_color.png| image:: ../static/ui/button/set_textcolor.png
+.. |set_btn_text_color_rgb.png| image:: ../static/ui/button/set_textcolor_rgb.png
+.. |set_btn_text_color_input.png| image:: ../static/ui/button/set_textcolor_input.png
+.. |set_btn_text_font.png| image:: ../static/ui/button/set_text_font.png
+.. |set_pos.png| image:: ../static/ui/button/set_pos.png
+.. |set_align.png| image:: ../static/ui/button/set_align.png
+.. |set_size.png| image:: ../static/ui/button/set_size.png
+.. |set_hidden.png| image:: ../static/ui/button/set_hidden.png
+.. |delete.png| image:: ../static/ui/button/delete.png
+.. |set_cb.png| image:: ../static/ui/button/set_cb.png
+.. |get_state.png| image:: ../static/ui/button/get_state.png

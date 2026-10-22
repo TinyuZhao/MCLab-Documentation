@@ -1,0 +1,12 @@
+.. |set_qrcode.png| image:: ../static/mccloud/remote/set_qrcode.png
+.. |remote_example.png| image:: ../static/mccloud/remote/remote_example.png
+.. |button_callback.png| image:: ../static/mccloud/remote/button_callback.png
+.. |switch_callback.png| image:: ../static/mccloud/remote/switch_callback.png
+.. |slider_callback.png| image:: ../static/mccloud/remote/slider_callback.png
+.. |stepper_callback.png| image:: ../static/mccloud/remote/stepper_callback.png
+.. |label_callback.png| image:: ../static/mccloud/remote/label_callback.png
+.. |joystick_callback.png| image:: ../static/mccloud/remote/joystick_callback.png
+.. |input_callback.png| image:: ../static/mccloud/remote/input_callback.png
+.. |image_callback.png| image:: ../static/mccloud/remote/image_callback.png
+.. |gauge_callback.png| image:: ../static/mccloud/remote/gauge_callback.png
+.. |remote_example.m5f| replace:: :download:`remote_example.m5f <../../../examples/ednex/mccloud/remote/remote_example.m5f>`

@@ -1,0 +1,11 @@
+.. |KMeterISO_example.png| image:: ../static/unit/KMeterISO/KMeterISO_example.png
+.. |KMeterISO_example.m5f| replace:: :download:`KMeterISO_example.m5f <../../../examples/ednex/unit/KMeterISO/KMeterISO_example.m5f>`
+.. |init_i2c_address.png| image:: ../static/unit/KMeterISO/init_i2c_address.png
+.. |get_kmeter_thermo.png| image:: ../static/unit/KMeterISO/get_kmeter_thermo.png
+.. |get_kmeter_internal.png| image:: ../static/unit/KMeterISO/get_kmeter_internal.png
+.. |get_kmeter_thermo_string.png| image:: ../static/unit/KMeterISO/get_kmeter_thermo_string.png
+.. |get_kmeter_internal_string.png| image:: ../static/unit/KMeterISO/get_kmeter_internal_string.png
+.. |get_isready.png| image:: ../static/unit/KMeterISO/get_isready.png
+.. |get_firmware_version.png| image:: ../static/unit/KMeterISO/get_firmware_version.png
+.. |rw_i2c_address.png| image:: ../static/unit/KMeterISO/rw_i2c_address.png
+.. |set_i2c_address.png| image:: ../static/unit/KMeterISO/set_i2c_address.png

@@ -1,0 +1,9 @@
+.. |easyio_example.png| image:: ../static/hardware/easyio/easyio_example.png
+.. |easyio_example.m5f| replace:: :download:`easyio_example.m5f <../../../examples/ednex/hardware/easyio/easyio_example.m5f>`
+.. |analogRead.png| image:: ../static/hardware/easyio/analogRead.png
+.. |analogRead_value.png| image:: ../static/hardware/easyio/analogRead_value.png
+.. |analogWrite.png| image:: ../static/hardware/easyio/analogWrite.png
+.. |digitalWrite.png| image:: ../static/hardware/easyio/digitalWrite.png
+.. |digitalRead.png| image:: ../static/hardware/easyio/digitalRead.png
+.. |toggleIO.png| image:: ../static/hardware/easyio/toggleIO.png
+.. |map_value.png| image:: ../static/hardware/easyio/map.png

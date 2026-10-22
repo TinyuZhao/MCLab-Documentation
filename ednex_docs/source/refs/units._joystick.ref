@@ -1,0 +1,8 @@
+.. |joystick_example.png| image:: ../static/unit/joystick/joystick_example.png
+.. |joystick_example.m5f| replace:: :download:`joystick_example.m5f <../../../examples/ednex/unit/joystick/joystick_example.m5f>`
+
+.. |X.png| image:: ../static/unit/joystick/X.png
+.. |Y.png| image:: ../static/unit/joystick/Y.png
+.. |InvertX.png| image:: ../static/unit/joystick/InvertX.png
+.. |InvertY.png| image:: ../static/unit/joystick/InvertY.png
+.. |Press.png| image:: ../static/unit/joystick/Press.png

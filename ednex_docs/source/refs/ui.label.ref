@@ -1,0 +1,14 @@
+.. |label_example.png| image:: ../static/ui/label/label_example.png
+.. |label_example.m5f| replace:: :download:`label_example.m5f <../../../examples/ednex/ui/label/label_example.m5f>`
+
+.. |set_text.png| image:: ../static/ui/label/set_text.png
+.. |set_text_color.png| image:: ../static/ui/label/set_color.png
+.. |set_text_color_rgb.png| image:: ../static/ui/label/set_color_rgb.png
+.. |set_text_color_input.png| image:: ../static/ui/label/set_color_input.png
+.. |set_text_font.png| image:: ../static/ui/label/set_font.png
+.. |set_long_mode.png| image:: ../static/ui/label/set_text_mode.png
+.. |get_width.png| image:: ../static/ui/label/get_width.png
+.. |set_pos.png| image:: ../static/ui/label/set_position.png
+.. |set_align.png| image:: ../static/ui/label/set_align.png
+.. |set_size.png| image:: ../static/ui/label/set_width.png
+.. |set_hidden.png| image:: ../static/ui/label/set_mode.png

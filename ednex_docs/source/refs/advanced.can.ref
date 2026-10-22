@@ -1,0 +1,12 @@
+.. |can_init.png| image:: ../static/advanced/can/can_init.png
+.. |can_state.png| image:: ../static/advanced/can/can_state.png
+.. |can_any.png| image:: ../static/advanced/can/can_any.png
+.. |can_recv.png| image:: ../static/advanced/can/can_recv.png
+.. |can_send.png| image:: ../static/advanced/can/can_send.png
+.. |can_set_filter.png| image:: ../static/advanced/can/can_set_filter.png
+.. |can_clearfilter.png| image:: ../static/advanced/can/can_clearfilter.png
+.. |can_clear_tx_queue.png| image:: ../static/advanced/can/can_clear_tx_queue.png
+.. |can_clear_rx_queue.png| image:: ../static/advanced/can/can_clear_rx_queue.png
+.. |can_restart.png| image:: ../static/advanced/can/can_restart.png
+.. |can_example.m5f| replace:: :download:`can.m5f <../../../examples/ednex/advanced/can/can_example.m5f>`
+.. |can_example.png| image:: ../static/advanced/can/can_example.png

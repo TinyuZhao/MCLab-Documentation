@@ -1,0 +1,7 @@
+.. |heart_example.png| image:: ../static/unit/heart/heart_example.png
+.. |heart_example.m5f| replace:: :download:`heart_example.m5f <../../../examples/ednex/unit/heart/heart_example.m5f>`
+
+.. |getHeartRate.png| image:: ../static/unit/heart/getHeartRate.png
+.. |getSpO2.png| image:: ../static/unit/heart/getSpO2.png
+.. |setMode.png| image:: ../static/unit/heart/setMode.png
+.. |setLedCurrent.png| image:: ../static/unit/heart/setLedCurrent.png

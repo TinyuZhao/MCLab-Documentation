@@ -1,0 +1,6 @@
+.. |eeprom_example.png| image:: ../static/hardware/eeprom/eeprom_example.png
+.. |eeprom_example.m5f| replace:: :download:`eeprom_example.m5f <../../../examples/ednex/hardware/eeprom/eeprom_example.m5f>`
+.. |write.png| image:: ../static/hardware/eeprom/write.png
+.. |read_str.png| image:: ../static/hardware/eeprom/read_str.png
+.. |read_int.png| image:: ../static/hardware/eeprom/read_int.png
+.. |delete_key.png| image:: ../static/hardware/eeprom/delete_key.png

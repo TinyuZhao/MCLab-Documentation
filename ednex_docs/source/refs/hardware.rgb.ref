@@ -1,0 +1,12 @@
+.. |setBrightness.png| image:: ../static/hardware/rgb/setBrightness.png
+.. |setColor.png| image:: ../static/hardware/rgb/setColor.png
+.. |setColorAll.png| image:: ../static/hardware/rgb/setColorAll.png
+.. |setColorFrom.png| image:: ../static/hardware/rgb/setColorFrom.png
+.. |rgb_example.png| image:: ../static/hardware/rgb/rgb_example.png
+.. |rgb_example.m5f| replace:: :download:`rgb_example.m5f <../../../examples/ednex/hardware/rgb/rgb_example.m5f>`
+.. |setShowLock.png| image:: ../static/unit/neopixel/setShowLock.png
+.. |show.png| image:: ../static/unit/neopixel/show.png
+.. |set_color_input.png| image:: ../static/hardware/rgb/setColor_input.png
+.. |set_color_from_rgb.png| image:: ../static/hardware/rgb/setColorFrom_rgb.png
+.. |set_color_from_input.png| image:: ../static/hardware/rgb/setColorFrom_input.png
+.. |set_color_all_input.png| image:: ../static/hardware/rgb/setColorAll_input.png

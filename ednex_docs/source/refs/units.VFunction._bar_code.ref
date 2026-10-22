@@ -1,0 +1,8 @@
+.. |v_function_bar_code_example.png| image:: ../static/unit/v_function_bar_code/v_function_bar_code_example.png
+.. |v_function_bar_code_example.m5f| replace:: :download:`v_function_bar_code_example.m5f <../../../examples/ednex/unit/v_function_bar_code/v_function_bar_code_example.m5f>`
+
+.. |init.png| image:: ../static/unit/v_function/bar_init.png
+.. |getBARcodeText.png| image:: ../static/unit/v_function/getBARcodeText.png
+.. |getBARcodeRotation.png| image:: ../static/unit/v_function/getBARcodeRotation.png
+.. |getBARcodeLocation.png| image:: ../static/unit/v_function/getBARcodeLocation.png
+.. |getBARcodeType.png| image:: ../static/unit/v_function/getBARcodeType.png

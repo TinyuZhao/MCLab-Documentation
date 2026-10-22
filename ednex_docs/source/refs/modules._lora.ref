@@ -1,0 +1,15 @@
+.. |lora_example.m5f| replace:: :download:`lora_example.m5f <../../../examples/ednex/module/lora/lora_example.m5f>`
+.. |lora_example.png| image:: ../static/module/lora/lora_example.png
+.. |enable_receive.png| image:: ../static/module/lora/enable_receive.png
+.. |get_rssi.png| image:: ../static/module/lora/get_rssi.png
+.. |get_snr.png| image:: ../static/module/lora/get_snr.png
+.. |init_lora_module.png| image:: ../static/module/lora/init_lora_module.png
+.. |read_packet.png| image:: ../static/module/lora/read_packet.png
+.. |read_str_packet.png| image:: ../static/module/lora/read_str_packet.png
+.. |set_begin_packet.png| image:: ../static/module/lora/set_begin_packet.png
+.. |set_end_packet.png| image:: ../static/module/lora/set_end_packet.png
+.. |set_lora_config.png| image:: ../static/module/lora/set_lora_config.png
+.. |set_receive_callback_handler.png| image:: ../static/module/lora/set_receive_callback_handler.png
+.. |set_sleep_mode.png| image:: ../static/module/lora/set_sleep_mode.png
+.. |set_standby_mode.png| image:: ../static/module/lora/set_standby_mode.png
+.. |write_packet.png| image:: ../static/module/lora/write_packet.png

@@ -1,0 +1,15 @@
+.. |init.png| image:: ../static/advanced/advanced_modbus_slave/init.png
+.. |function_init.png| image:: ../static/advanced/advanced_modbus_slave/function_init.png
+.. |update_process.png| image:: ../static/advanced/advanced_modbus_slave/update_process.png
+.. |get_datavalue.png| image:: ../static/advanced/advanced_modbus_slave/get_datavalue.png
+.. |read_coils.png| image:: ../static/advanced/advanced_modbus_slave/function_status.png
+.. |read_discrete_inputs.png| image:: ../static/advanced/advanced_modbus_slave/function_status.png
+.. |read_holding_registers.png| image:: ../static/advanced/advanced_modbus_slave/get_datavalue.png
+.. |read_input_registers.png| image:: ../static/advanced/advanced_modbus_slave/get_datavalue.png
+.. |write_single_coil.png| image:: ../static/advanced/advanced_modbus_slave/function_init.png
+.. |write_single_register.png| image:: ../static/advanced/advanced_modbus_slave/function_init.png
+.. |write_multiple_coils.png| image:: ../static/advanced/advanced_modbus_slave/update_process.png
+.. |write_multiple_registers.png| image:: ../static/advanced/advanced_modbus_slave/update_process.png
+.. |set_datavalue.png| image:: ../static/advanced/advanced_modbus_slave/update_process.png
+.. |modbus_slave_example.m5f| replace:: :download:`modbus_slave.m5f <../../../examples/ednex/advanced/modbus_slave/modbus_slave_example.m5f>`
+.. |modbus_slave_example.png| image:: ../static/advanced/modbus_slave/modbus_slave_example.png

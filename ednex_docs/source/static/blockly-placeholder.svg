@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="120" viewBox="0 0 640 240" role="img" aria-labelledby="title description">
+  <title id="title">Blockly image pending</title>
+  <desc id="description">Placeholder for an API Blockly example that has not yet been supplied.</desc>
+  <rect width="640" height="240" fill="#f8fafc"/>
+  <rect x="16" y="16" width="608" height="208" rx="6" fill="none" stroke="#94a3b8" stroke-width="2" stroke-dasharray="8 8"/>
+  <g fill="#475569" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="320" y="112" font-size="24" font-weight="700">Blockly image pending</text>
+    <text x="320" y="146" font-size="16">API documentation placeholder</text>
+  </g>
+</svg>

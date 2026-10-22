@@ -1,0 +1,11 @@
+.. |encoder_example.png| image:: ../static/unit/encoder/encoder_example.png
+.. |encoder_example.m5f| replace:: :download:`encoder_example.m5f <../../../examples/ednex/unit/encoder/encoder_example.m5f>`
+
+.. |set_encoder_mode.png| image:: ../static/unit/encoder/set_encoder_mode.png
+.. |get_encoder_count.png| image:: ../static/unit/encoder/get_encoder_count.png
+.. |set_encoder_count.png| image:: ../static/unit/encoder/set_encoder_count.png
+.. |get_button_status.png| image:: ../static/unit/encoder/get_button_status.png
+.. |set_LED_RGB.png| image:: ../static/unit/encoder/set_LED_RGB.png
+.. |set_LED_RGB_color.png| image:: ../static/unit/encoder/set_LED_RGB_color.png
+.. |set_LED_RGB_input.png| image:: ../static/unit/encoder/set_LED_RGB_input.png
+.. |reset_count.png| image:: ../static/unit/encoder/reset_count.png

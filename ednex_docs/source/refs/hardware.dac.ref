@@ -1,0 +1,8 @@
+.. |beep.png| image:: ../static/hardware/dac/beep.png
+.. |freq.png| image:: ../static/hardware/dac/freq.png
+.. |init.png| image:: ../static/hardware/dac/init.png
+.. |stopwave.png| image:: ../static/hardware/dac/stopwave.png
+.. |waveform.png| image:: ../static/hardware/dac/waveform.png
+.. |write.png| image:: ../static/hardware/dac/write.png
+.. |dac_example.png| image:: ../static/hardware/dac/dac_example.png
+.. |dac_example.m5f| replace:: :download:`dac_example.m5f <../../../examples/ednex/hardware/dac/dac_example.m5f>`

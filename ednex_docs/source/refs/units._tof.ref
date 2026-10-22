@@ -1,0 +1,4 @@
+.. |tof_example.png| image:: ../static/unit/tof/tof_example.png
+.. |tof_example.m5f| replace:: :download:`tof_example.m5f <../../../examples/ednex/unit/tof/tof_example.m5f>`
+
+.. |distance.png| image:: ../static/unit/tof/distance.png

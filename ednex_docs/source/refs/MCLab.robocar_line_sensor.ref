@@ -1,0 +1,12 @@
+.. |ow_line_port_init.png| image:: ../static/mclab/robocar_line_sensor/ow_line_port_init.png
+.. |reset_line_sensor.png| image:: ../static/mclab/robocar_line_sensor/reset_line_sensor.png
+.. |set_line_sensor_mode.png| image:: ../static/mclab/robocar_line_sensor/set_line_sensor_mode.png
+.. |get_line_sensor_mode.png| image:: ../static/mclab/robocar_line_sensor/get_line_sensor_mode.png
+.. |get_line_sensor_values.png| image:: ../static/mclab/robocar_line_sensor/get_line_sensor_values.png
+.. |ow_two_line_get_sensor_values.png| image:: ../static/mclab/robocar_line_sensor/ow_two_line_get_sensor_values.png
+.. |ow_two_line_get_sensor_value.png| image:: ../static/mclab/robocar_line_sensor/ow_two_line_get_sensor_value.png
+.. |ow_multi_line_get_sensor_values.png| image:: ../static/mclab/robocar_line_sensor/ow_multi_line_get_sensor_values.png
+.. |ow_multi_line_get_sensor_value.png| image:: ../static/mclab/robocar_line_sensor/ow_multi_line_get_sensor_value.png
+.. |ow_multi_line_led.png| image:: ../static/mclab/robocar_line_sensor/ow_multi_line_led.png
+.. |line_fololwer_example.png| image:: ../static/mclab/robocar_line_sensor/line_fololwer_example.png
+.. |line_fololwer_example.m5f| replace:: :download:`line_fololwer_example.m5f <../../../examples/ednex/MCLab/line_follower/line_fololwer_example.m5f>`

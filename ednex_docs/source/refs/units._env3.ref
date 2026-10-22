@@ -1,0 +1,6 @@
+.. |env3_example.png| image:: ../static/unit/env3/env3_example.png
+.. |env3_example.m5f| replace:: :download:`env3_example.m5f <../../../examples/ednex/unit/env3/env3_example.m5f>`
+
+.. |humidity.png| image:: ../static/unit/env3/humidity.png
+.. |pressure.png| image:: ../static/unit/env3/pressure.png
+.. |temperature.png| image:: ../static/unit/env3/temperature.png

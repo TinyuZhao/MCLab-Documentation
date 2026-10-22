@@ -1,0 +1,4 @@
+.. |feed.png| image:: ../static/hardware/wdt/feed.png
+.. |init.png| image:: ../static/hardware/wdt/init.png
+.. |wdt_example.png| image:: ../static/hardware/wdt/wdt_example.png
+.. |wdt_example.m5f| replace:: :download:`wdt_example.m5f <../../../examples/ednex/hardware/wdt/wdt_example.m5f>`

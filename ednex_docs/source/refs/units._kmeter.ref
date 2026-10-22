@@ -1,0 +1,10 @@
+.. |KMeter_example.png| image:: ../static/unit/KMeter/KMeter_example.png
+.. |KMeter_example.m5f| replace:: :download:`KMeter_example.m5f <../../../examples/ednex/unit/KMeter/KMeter_example.m5f>`
+.. |init_i2c_address.png| image:: ../static/unit/KMeter/init_i2c_address.png
+.. |get_kmeter.png| image:: ../static/unit/KMeter/get_kmeter.png
+.. |get_firmware_version.png| image:: ../static/unit/KMeter/get_firmware_version.png
+.. |rw_i2c_address.png| image:: ../static/unit/KMeter/rw_i2c_address.png
+.. |rw_sleep_time.png| image:: ../static/unit/KMeter/rw_sleep_time.png
+.. |set_wakeup_timer.png| image:: ../static/unit/KMeter/set_wakeup_timer.png
+.. |set_i2c_address.png| image:: ../static/unit/KMeter/set_i2c_address.png
+.. |set_sleep_time.png| image:: ../static/unit/KMeter/set_sleep_time.png

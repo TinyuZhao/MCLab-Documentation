@@ -1,0 +1,7 @@
+.. |ain_420ma_example.m5f| replace:: :download:`ain_420ma_example.m5f <../../../examples/ednex/module/ain_420ma/ain_420ma_example.m5f>`
+.. |ain_420ma_example.png| image:: ../static/module/ain_420ma/ain_420ma_example.png
+.. |get_adc_raw16_value.png| image:: ../static/module/ain_420ma/get_adc_raw16_value.png
+.. |get_ain_current_value.png| image:: ../static/module/ain_420ma/get_ain_current_value.png
+.. |get_firmware_status.png| image:: ../static/module/ain_420ma/get_firmware_status.png
+.. |init_i2c_address.png| image:: ../static/module/ain_420ma/init_i2c_address.png
+.. |set_i2c_address.png| image:: ../static/module/ain_420ma/set_i2c_address.png

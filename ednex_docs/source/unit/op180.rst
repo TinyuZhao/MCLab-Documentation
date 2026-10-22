@@ -1,0 +1,36 @@
+.. currentmodule:: units._op
+
+OP180 Unit
+==========
+
+.. include:: ../refs/units._op.ref
+
+This page documents the public API for the OP180 unit.
+
+MicroPython Examples
+--------------------
+
+Read the OP180 Output
+^^^^^^^^^^^^^^^^^^^^^
+
+Open the |op180_example.m5f| project in MCLab.
+
+This example prints the digital output of the OP180 unit once per second.
+
+MCLab Code Block:
+
+    |op180_example.png|
+
+MicroPython Code Block:
+
+    .. literalinclude:: ../../../examples/ednex/unit/op180/op180_example.py
+        :language: python
+
+**API**
+-------
+
+.. currentmodule:: units._op
+
+.. automodule:: units._op
+    :members:
+    :member-order: bysource

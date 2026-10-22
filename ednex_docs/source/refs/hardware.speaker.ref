@@ -1,0 +1,8 @@
+.. |speaker_example.png| image:: ../static/hardware/speaker/speaker_example.png
+.. |speaker_example.m5f| replace:: :download:`speaker_example.m5f <../../../examples/ednex/hardware/speaker/speaker_example.m5f>`
+.. |playWAV.png| image:: ../static/hardware/speaker/playWAV.png
+.. |playWAV_dropdown.png| image:: ../static/hardware/speaker/playWAV_dropdown.png
+.. |playWAV_rate.png| image:: ../static/hardware/speaker/playWAV_rate.png
+.. |playCloudWAV.png| image:: ../static/hardware/speaker/playCloudWAV.png
+.. |playTone.png| image:: ../static/hardware/speaker/playTone.png
+.. |playTone_note.png| image:: ../static/hardware/speaker/playTone_note.png

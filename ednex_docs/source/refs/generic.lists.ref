@@ -1,0 +1,13 @@
+.. |create_empty.png| image:: ../static/generic/lists/create_empty.png
+.. |create_with.png| image:: ../static/generic/lists/create_with.png
+.. |getIndex.png| image:: ../static/generic/lists/getIndex.png
+.. |getSublist.png| image:: ../static/generic/lists/getSublist.png
+.. |indexOf.png| image:: ../static/generic/lists/indexOf.png
+.. |isEmpty.png| image:: ../static/generic/lists/isEmpty.png
+.. |length.png| image:: ../static/generic/lists/length.png
+.. |repeat.png| image:: ../static/generic/lists/repeat.png
+.. |reverse.png| image:: ../static/generic/lists/reverse.png
+.. |setIndex.png| image:: ../static/generic/lists/setIndex.png
+.. |split.png| image:: ../static/generic/lists/split.png
+.. |lists_example.m5f| replace:: :download:`lists_example.m5f <../../../examples/ednex/generic/lists/lists_example.m5f>`
+.. |lists_example.png| image:: ../static/generic/lists/lists_example.png

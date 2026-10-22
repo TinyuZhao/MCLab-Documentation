@@ -1,0 +1,17 @@
+.. |checkbox_example.png| image:: ../static/ui/checkbox/checkbox_example.png
+.. |checkbox_example.m5f| replace:: :download:`checkbox_example.m5f <../../../examples/ednex/ui/checkbox/checkbox_example.m5f>`
+
+.. |set_text.png| image:: ../static/ui/checkbox/set_text.png
+.. |set_text_color.png| image:: ../static/ui/checkbox/set_color.png
+.. |set_text_color_rgb.png| image:: ../static/ui/checkbox/set_color_rgb.png
+.. |set_text_color_input.png| image:: ../static/ui/checkbox/set_color_input.png
+.. |set_text_font.png| image:: ../static/ui/checkbox/set_text_font.png
+.. |set_checked_color.png| image:: ../static/ui/checkbox/set_selected_color.png
+.. |set_checked_color_rgb.png| image:: ../static/ui/checkbox/set_selected_color_rgb.png
+.. |set_checked_color_input.png| image:: ../static/ui/checkbox/set_selected_color_input.png
+.. |set_checked.png| image:: ../static/ui/checkbox/set_checked.png
+.. |set_pos.png| image:: ../static/ui/checkbox/set_pos.png
+.. |set_align.png| image:: ../static/ui/checkbox/set_align.png
+.. |set_hidden.png| image:: ../static/ui/checkbox/set_hidden.png
+.. |delete.png| image:: ../static/ui/checkbox/delete.png
+.. |set_cb.png| image:: ../static/ui/checkbox/set_cb.png

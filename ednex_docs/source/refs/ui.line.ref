@@ -1,0 +1,10 @@
+.. |line_example.png| image:: ../static/ui/line/line_example.png
+.. |line_example.m5f| replace:: :download:`line_example.m5f <../../../examples/ednex/ui/line/line_example.m5f>`
+
+.. |set_points.png| image:: ../static/ui/line/set_position.png
+.. |set_color.png| image:: ../static/ui/line/set_color.png
+.. |set_color_rgb.png| image:: ../static/ui/line/set_color_rgb.png
+.. |set_color_input.png| image:: ../static/ui/line/set_color_input.png
+.. |set_line_width.png| image:: ../static/ui/line/set_width.png
+.. |set_opacity.png| image:: ../static/ui/line/set_opacity.png
+.. |set_hidden.png| image:: ../static/ui/line/set_mode.png

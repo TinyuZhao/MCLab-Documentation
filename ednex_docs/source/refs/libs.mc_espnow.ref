@@ -1,0 +1,17 @@
+.. |init.png| image:: ../static/advanced/espnow/init.png
+.. |espnow_init.png| image:: ../static/advanced/espnow/espnow_init.png
+.. |espnow_add_peer.png| image:: ../static/advanced/espnow/espnow_add_peer.png
+.. |espnow_send_data.png| image:: ../static/advanced/espnow/espnow_send_data.png
+.. |espnow_broadcast_data.png| image:: ../static/advanced/espnow/espnow_broadcast_data.png
+.. |espnow_set_pmk.png| image:: ../static/advanced/espnow/espnow_set_pmk.png
+.. |espnow_send_cb.png| image:: ../static/advanced/espnow/espnow_send_cb.png
+.. |espnow_recv_cb.png| image:: ../static/advanced/espnow/espnow_recv_cb.png
+.. |espnow_recv_str.png| image:: ../static/advanced/espnow/espnow_recv_str.png
+.. |espnow_get_mac.png| image:: ../static/advanced/espnow/espnow_get_mac.png
+.. |espnow_scan.png| image:: ../static/advanced/espnow/espnow_scan.png
+.. |espnow_set_ap.png| image:: ../static/advanced/espnow/espnow_set_ap.png
+.. |espnow_deinit.png| image:: ../static/advanced/espnow/espnow_deinit.png
+.. |espnow_send.m5f| replace:: :download:`espnow_send.m5f <../../../examples/ednex/advanced/espnow/espnow_send.m5f>`
+.. |espnow_send.png| image:: ../static/advanced/espnow/espnow_send.png
+.. |espnow_received.m5f| replace:: :download:`espnow_received.m5f <../../../examples/ednex/advanced/espnow/espnow_received.m5f>`
+.. |espnow_received.png| image:: ../static/advanced/espnow/espnow_received.png

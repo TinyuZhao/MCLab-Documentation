@@ -1,0 +1,8 @@
+.. |adc_v11_example.png| image:: ../static/unit/adc_v11/adc_v11_example.png
+.. |adc_v11_example.m5f| replace:: :download:`adc_v11_example.m5f <../../../examples/ednex/unit/adc_v11/adc_v11_example.m5f>`
+
+.. |get_adc_raw_value.png| image:: ../static/unit/adc_v11/get_adc_raw_value.png
+.. |get_voltage.png| image:: ../static/unit/adc_v11/get_voltage.png
+.. |set_gain.png| image:: ../static/unit/adc_v11/set_gain.png
+.. |set_mode.png| image:: ../static/unit/adc_v11/set_mode.png
+.. |set_sample_rate.png| image:: ../static/unit/adc_v11/set_sample_rate.png

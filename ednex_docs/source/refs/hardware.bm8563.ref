@@ -1,0 +1,13 @@
+.. |rtc_example.png| image:: ../static/hardware/rtc/rtc_example.png
+.. |rtc_example.m5f| replace:: :download:`rtc_example.m5f <../../../examples/ednex/hardware/rtc/rtc_example.m5f>`
+.. |settime.png| image:: ../static/hardware/rtc/settime.png
+.. |datetime.png| image:: ../static/hardware/rtc/datetime.png
+.. |getTime.png| image:: ../static/hardware/rtc/getTime.png
+.. |printRTCtime.png| image:: ../static/hardware/rtc/printRTCtime.png
+.. |year.png| image:: ../static/hardware/rtc/year.png
+.. |month.png| image:: ../static/hardware/rtc/month.png
+.. |day.png| image:: ../static/hardware/rtc/day.png
+.. |weekday.png| image:: ../static/hardware/rtc/weekday.png
+.. |hour.png| image:: ../static/hardware/rtc/hour.png
+.. |minute.png| image:: ../static/hardware/rtc/minute.png
+.. |second.png| image:: ../static/hardware/rtc/second.png

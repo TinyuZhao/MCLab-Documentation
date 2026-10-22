@@ -1,0 +1,9 @@
+.. |image_plus_example.png| image:: ../static/ui/image_plus/image_plus_example.png
+.. |image_plus_example.m5f| replace:: :download:`image_plus_example.m5f <../../../examples/ednex/ui/image_plus/image_plus_example.m5f>`
+
+.. |setUpdateEnable.png| image:: ../static/ui/image_plus/set_update.png
+.. |setUpdatePeriod.png| image:: ../static/ui/image_plus/set_interval.png
+.. |setPosition.png| image:: ../static/ui/image_plus/set_position.png
+.. |hide.png| image:: ../static/ui/image_plus/set_display.png
+.. |show.png| image:: ../static/ui/image_plus/set_display.png
+.. |isValidData.png| image:: ../static/ui/image_plus/is_valid.png

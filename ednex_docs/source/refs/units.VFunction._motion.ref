@@ -1,0 +1,11 @@
+.. |v_function_motion_example.png| image:: ../static/unit/v_function_motion/v_function_motion_example.png
+.. |v_function_motion_example.m5f| replace:: :download:`v_function_motion_example.m5f <../../../examples/ednex/unit/v_function_motion/v_function_motion_example.m5f>`
+
+.. |init.png| image:: ../static/unit/v_function/motion_init.png
+.. |getRateOfDiff.png| image:: ../static/unit/v_function/getRateOfDiff.png
+.. |getMaxDiff.png| image:: ../static/unit/v_function/getMaxDiff.png
+.. |getBoxNumber.png| image:: ../static/unit/v_function/motion_getBoxNumber.png
+.. |getBoxDetail.png| image:: ../static/unit/v_function/motion_getBoxDetail.png
+.. |setDetectMode.png| image:: ../static/unit/v_function/setDetectMode.png
+.. |setMotionDetectThreshold.png| image:: ../static/unit/v_function/motion_setMotionDetectThreshold.png
+.. |setScanInterval.png| image:: ../static/unit/v_function/motion_setScanInterval.png

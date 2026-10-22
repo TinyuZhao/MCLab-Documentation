@@ -1,0 +1,8 @@
+.. |append.png| image:: ../static/generic/bytearray/append.png
+.. |extend.png| image:: ../static/generic/bytearray/extend.png
+.. |decode.png| image:: ../static/generic/bytearray/decode.png
+.. |getIndex.png| image:: ../static/generic/bytearray/getIndex.png
+.. |setIndex.png| image:: ../static/generic/bytearray/setIndex.png
+.. |getSublist.png| image:: ../static/generic/bytearray/getSublist.png
+.. |bytearray_example.m5f| replace:: :download:`bytearray_example.m5f <../../../examples/ednex/generic/bytearray/bytearray_example.m5f>`
+.. |bytearray_example.png| image:: ../static/generic/bytearray/bytearray_example.png

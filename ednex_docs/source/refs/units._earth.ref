@@ -1,0 +1,4 @@
+.. |earth_example.png| image:: ../static/unit/earth/earth_example.png
+.. |earth_example.m5f| replace:: :download:`earth_example.m5f <../../../examples/ednex/unit/earth/earth_example.m5f>`
+.. |analogValue.png| image:: ../static/unit/earth/analogValue.png
+.. |digitalValue.png| image:: ../static/unit/earth/digitalValue.png

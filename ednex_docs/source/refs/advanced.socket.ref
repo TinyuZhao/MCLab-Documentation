@@ -1,0 +1,9 @@
+.. |udp_client_start.png| image:: ../static/advanced/socket/udp_client_start.png
+.. |udp_client_sendto.png| image:: ../static/advanced/socket/udp_client_sendto.png
+.. |udp_client_close.png| image:: ../static/advanced/socket/udp_client_close.png
+.. |udp_server_start.png| image:: ../static/advanced/socket/udp_server_start.png
+.. |udp_server_recv.png| image:: ../static/advanced/socket/udp_server_recv.png
+.. |socket_udp_client.m5f| replace:: :download:`socket_udp_client.m5f <../../../examples/ednex/advanced/socket/socket_udp_client.m5f>`
+.. |socket_udp_client.png| image:: ../static/advanced/socket/socket_udp_client.png
+.. |socket_udp_server.m5f| replace:: :download:`socket_udp_server.m5f <../../../examples/ednex/advanced/socket/socket_udp_server.m5f>`
+.. |socket_udp_server.png| image:: ../static/advanced/socket/socket_udp_server.png

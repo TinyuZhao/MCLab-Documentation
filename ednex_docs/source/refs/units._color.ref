@@ -1,0 +1,9 @@
+.. |color_example.png| image:: ../static/unit/color/color_example.png
+.. |color_example.m5f| replace:: :download:`color_example.m5f <../../../examples/ednex/unit/color/color_example.m5f>`
+
+.. |setIntegrationTime.png| image:: ../static/unit/color/setIntegrationTime.png
+.. |getRGB.png| image:: ../static/unit/color/getRGB.png
+.. |red.png| image:: ../static/unit/color/red.png
+.. |green.png| image:: ../static/unit/color/green.png
+.. |blue.png| image:: ../static/unit/color/blue.png
+.. |setGains.png| image:: ../static/unit/color/setGains.png

@@ -1,0 +1,8 @@
+.. |init.png| image:: ../static/mclab/gyro_imu/init.png
+.. |gyro_example.png| image:: ../static/mclab/gyro_imu/gyro_example.png
+.. |gyro_example.m5f| replace:: :download:`gyro_example.m5f <../../../examples/ednex/MCLab/gyro/gyro_example.m5f>`
+.. |get_accel.png| image:: ../static/mclab/gyro_imu/get_accel.png
+.. |get_gyro.png| image:: ../static/mclab/gyro_imu/get_gyro.png
+.. |get_roll_pitch_yaw.png| image:: ../static/mclab/gyro_imu/get_roll_pitch_yaw_x.png
+.. |get_roll_pitch_yaw_y.png| image:: ../static/mclab/gyro_imu/get_roll_pitch_yaw_y.png
+.. |get_roll_pitch_yaw_z.png| image:: ../static/mclab/gyro_imu/get_roll_pitch_yaw_z.png

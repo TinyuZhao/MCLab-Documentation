@@ -1,0 +1,20 @@
+.. |servos8_example.png| image:: ../static/unit/servos8/servos8_example.png
+.. |servos8_example.m5f| replace:: :download:`servos8_example.m5f <../../../examples/ednex/unit/servos8/servos8_example.m5f>`
+
+.. |init_i2c_address.png| image:: ../static/unit/servos8/init_i2c_address.png
+.. |get_config_mode.png| image:: ../static/unit/servos8/get_config_mode.png
+.. |set_config_mode.png| image:: ../static/unit/servos8/set_config_mode.png
+.. |read_adc8_pin.png| image:: ../static/unit/servos8/read_adc8_pin.png
+.. |read_adc12_pin.png| image:: ../static/unit/servos8/read_adc12_pin.png
+.. |write_servo_angle.png| image:: ../static/unit/servos8/write_servo_angle.png
+.. |write_servo_pulse.png| image:: ../static/unit/servos8/write_servo_pulse.png
+.. |write_pwm_duty.png| image:: ../static/unit/servos8/write_pwm_duty.png
+.. |read_servo_current.png| image:: ../static/unit/servos8/read_servo_current.png
+.. |read_status.png| image:: ../static/unit/servos8/read_status.png
+.. |set_i2c_address.png| image:: ../static/unit/servos8/set_i2c_address.png
+.. |read_input_pin.png| image:: ../static/unit/servos8/read_input_pin.png
+.. |write_output_pin.png| image:: ../static/unit/servos8/write_output_pin.png
+.. |read_servo_angle.png| image:: ../static/unit/servos8/read_servo_angle.png
+.. |read_servo_pulse.png| image:: ../static/unit/servos8/read_servo_pulse.png
+.. |write_rgb_led.png| image:: ../static/unit/servos8/write_rgb_led.png
+.. |read_rgb_led.png| image:: ../static/unit/servos8/read_rgb_led.png

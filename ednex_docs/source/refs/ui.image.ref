@@ -1,0 +1,12 @@
+.. |image_example.png| image:: ../static/ui/image/image_example.png
+.. |image_example.m5f| replace:: :download:`image_example.m5f <../../../examples/ednex/ui/image/image_example.m5f>`
+
+.. |set_img_src.png| image:: ../static/ui/image/set_image.png
+.. |set_img_src_sd.png| image:: ../static/ui/image/set_image_sdcard_core2.png
+.. |set_network_img_src.png| image:: ../static/ui/image/set_image_network.png
+.. |set_position_x.png| image:: ../static/ui/image/set_position_x.png
+.. |set_position_y.png| image:: ../static/ui/image/set_position_y.png
+.. |set_pos.png| image:: ../static/ui/image/set_position.png
+.. |set_align.png| image:: ../static/ui/image/set_align.png
+.. |set_hidden.png| image:: ../static/ui/image/set_hidden.png
+.. |delete.png| image:: ../static/ui/image/delete.png

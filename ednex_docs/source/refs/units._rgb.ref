@@ -1,0 +1,13 @@
+.. |rgb_example.png| image:: ../static/unit/rgb/rgb_example.png
+.. |rgb_example.m5f| replace:: :download:`rgb_example.m5f <../../../examples/ednex/unit/rgb/rgb_example.m5f>`
+
+.. |setColor.png| image:: ../static/unit/rgb/setColor.png
+.. |setColorFrom.png| image:: ../static/unit/rgb/setColorFrom.png
+.. |setColorAll.png| image:: ../static/unit/rgb/setColorAll.png
+.. |setBrightness.png| image:: ../static/unit/rgb/setBrightness.png
+.. |setShowLock.png| image:: ../static/unit/neopixel/setShowLock.png
+.. |show.png| image:: ../static/unit/neopixel/show.png
+.. |set_color_input.png| image:: ../static/unit/neopixel/set_color_input.png
+.. |set_color_from_rgb.png| image:: ../static/unit/neopixel/set_color_from_rgb.png
+.. |set_color_from_input.png| image:: ../static/unit/neopixel/set_color_from_input.png
+.. |set_color_all_input.png| image:: ../static/unit/neopixel/set_color_all_input.png

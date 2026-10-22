@@ -1,0 +1,15 @@
+.. |rtc_example.png| image:: ../static/unit/rtc/rtc_example.png
+.. |rtc_example.m5f| replace:: :download:`rtc_example.m5f <../../../examples/ednex/unit/rtc/rtc_example.m5f>`
+.. |set_date_time.png| image:: ../static/unit/rtc/set_date_time.png
+.. |set_alarm_clock.png| image:: ../static/unit/rtc/set_alarm_clock.png
+.. |clear_alarm_flag.png| image:: ../static/unit/rtc/clear_alarm_flag.png
+.. |disable_alarm.png| image:: ../static/unit/rtc/disable_alarm.png
+.. |set_timer_mode.png| image:: ../static/unit/rtc/set_timer_mode.png
+.. |clear_timer_flag.png| image:: ../static/unit/rtc/clear_timer_flag.png
+.. |disable_timer.png| image:: ../static/unit/rtc/disable_timer.png
+.. |pause_timer.png| image:: ../static/unit/rtc/pause_timer.png
+.. |resume_timer.png| image:: ../static/unit/rtc/resume_timer.png
+.. |get_date_time.png| image:: ../static/unit/rtc/get_date_time.png
+.. |check_alarm_flag.png| image:: ../static/unit/rtc/check_alarm_flag.png
+.. |get_timer_value.png| image:: ../static/unit/rtc/get_timer_value.png
+.. |check_timer_flag.png| image:: ../static/unit/rtc/check_timer_flag.png

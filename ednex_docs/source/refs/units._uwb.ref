@@ -1,0 +1,15 @@
+.. |uwb_example.png| image:: ../static/unit/uwb/uwb_example.png
+.. |uwb_anchor_example.m5f| replace:: :download:`uwb_anchor_example.m5f <../../../examples/ednex/unit/uwb/uwb_anchor_example.m5f>`
+.. |uwb_tag_example.m5f| replace:: :download:`uwb_tag_example.m5f <../../../examples/ednex/unit/uwb/uwb_tag_example.m5f>`
+
+.. |uart_port_id.png| image:: ../static/unit/uwb/uart_port_id.png
+.. |init_uwb_mode.png| image:: ../static/unit/uwb/init_uwb_mode.png
+.. |check_device.png| image:: ../static/unit/uwb/check_device.png
+.. |get_version.png| image:: ../static/unit/uwb/get_version.png
+.. |set_range_interval.png| image:: ../static/unit/uwb/set_range_interval.png
+.. |continuous_output_value.png| image:: ../static/unit/uwb/continuous_output_value.png
+.. |update_new_value_loop.png| image:: ../static/unit/uwb/update_new_value_loop.png
+.. |set_mode.png| image:: ../static/unit/uwb/set_anchor.png
+.. |set_tag.png| image:: ../static/unit/uwb/set_tag.png
+.. |get_device_id.png| image:: ../static/unit/uwb/get_device_id.png
+.. |get_distance_measure.png| image:: ../static/unit/uwb/get_distance_measure.png

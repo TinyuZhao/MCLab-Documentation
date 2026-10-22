@@ -1,0 +1,6 @@
+.. |Watering_example.png| image:: ../static/unit/Watering/Watering_example.png
+.. |Watering_example.m5f| replace:: :download:`Watering_example.m5f <../../../examples/ednex/unit/Watering/Watering_example.m5f>`
+
+.. |get_adc_value.png| image:: ../static/unit/Watering/get_adc_value.png
+.. |set_pump_status.png| image:: ../static/unit/Watering/set_pump_status.png
+.. |set_pump_status_dropdown.png| image:: ../static/unit/Watering/set_pump_status_dropdown.png

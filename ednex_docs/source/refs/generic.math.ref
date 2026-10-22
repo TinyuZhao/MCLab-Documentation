@@ -1,0 +1,15 @@
+.. |arithmetic.png| image:: ../static/generic/math/arithmetic.png
+.. |bit_operation.png| image:: ../static/generic/math/bit_operation.png
+.. |constants.png| image:: ../static/generic/math/constants.png
+.. |constrain.png| image:: ../static/generic/math/constrain.png
+.. |modulo.png| image:: ../static/generic/math/modulo.png
+.. |on_list.png| image:: ../static/generic/math/on_list.png
+.. |random_float.png| image:: ../static/generic/math/random_float.png
+.. |random_int.png| image:: ../static/generic/math/random_int.png
+.. |round.png| image:: ../static/generic/math/round.png
+.. |sin.png| image:: ../static/generic/math/sin.png
+.. |sqrt.png| image:: ../static/generic/math/sqrt.png
+.. |to_float.png| image:: ../static/generic/math/to_float.png
+.. |to_int.png| image:: ../static/generic/math/to_int.png
+.. |math_example.m5f| replace:: :download:`math_example.m5f <../../../examples/ednex/generic/math/math_example.m5f>`
+.. |math_example.png| image:: ../static/generic/math/math_example.png

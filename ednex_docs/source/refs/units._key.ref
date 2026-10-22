@@ -1,0 +1,7 @@
+.. |key_example.png| image:: ../static/unit/key/key_example.png
+.. |key_example.m5f| replace:: :download:`key_example.m5f <../../../examples/ednex/unit/key/key_example.m5f>`
+
+.. |get_switch_status.png| image:: ../static/unit/key/get_switch_status.png
+.. |set_color.png| image:: ../static/unit/key/set_color.png
+.. |set_color_rgb.png| image:: ../static/unit/key/set_color_rgb.png
+.. |set_color_input.png| image:: ../static/unit/key/set_color_input.png

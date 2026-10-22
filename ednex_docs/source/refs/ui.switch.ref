@@ -1,0 +1,19 @@
+.. |switch_example.png| image:: ../static/ui/switch/switch_example.png
+.. |switch_example.m5f| replace:: :download:`switch_example.m5f <../../../examples/ednex/ui/switch/switch_example.m5f>`
+
+.. |set_bg_color.png| image:: ../static/ui/switch/set_bgcolor.png
+.. |set_bg_color_rgb.png| image:: ../static/ui/switch/set_bgcolor_rgb.png
+.. |set_bg_color_input.png| image:: ../static/ui/switch/set_bgcolor_input.png
+.. |set_color.png| image:: ../static/ui/switch/set_color.png
+.. |set_color_rgb.png| image:: ../static/ui/switch/set_color_rgb.png
+.. |set_color_input.png| image:: ../static/ui/switch/set_color_input.png
+.. |set_on.png| image:: ../static/ui/switch/set_on.png
+.. |set_off.png| image:: ../static/ui/switch/set_off.png
+.. |set_toggle.png| image:: ../static/ui/switch/set_toggle.png
+.. |set_pos.png| image:: ../static/ui/switch/set_pos.png
+.. |set_align.png| image:: ../static/ui/switch/set_align.png
+.. |set_size.png| image:: ../static/ui/switch/set_size.png
+.. |set_hidden.png| image:: ../static/ui/switch/set_hidden.png
+.. |delete.png| image:: ../static/ui/switch/delete.png
+.. |set_cb.png| image:: ../static/ui/switch/set_cb.png
+.. |get_state.png| image:: ../static/ui/switch/get_state.png

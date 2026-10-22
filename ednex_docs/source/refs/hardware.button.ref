@@ -1,0 +1,10 @@
+.. |event_loop_example.png| image:: ../static/event/event_loop_example.png
+.. |event_loop_example.m5f| replace:: :download:`event_loop_example.m5f <../../../examples/ednex/event/event_loop_example.m5f>`
+.. |event_button_example.png| image:: ../static/event/event_button_example.png
+.. |event_button_example.m5f| replace:: :download:`event_button_example.m5f <../../../examples/ednex/event/event_button_example.m5f>`
+.. |event_timer_example.png| image:: ../static/event/event_timer_example.png
+.. |event_timer_example.m5f| replace:: :download:`event_timer_example.m5f <../../../examples/ednex/event/event_timer_example.m5f>`
+.. |attach.png| image:: ../static/event/attach.png
+.. |multiBtnCb.png| image:: ../static/event/multiBtnCb.png
+.. |wasPressed.png| image:: ../static/event/wasPressed.png
+.. |isPressed.png| image:: ../static/event/wasPressed_state.png

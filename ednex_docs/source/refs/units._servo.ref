@@ -1,0 +1,5 @@
+.. |servo_example.png| image:: ../static/unit/servo/servo_example.png
+.. |servo_example.m5f| replace:: :download:`servo_example.m5f <../../../examples/ednex/unit/servo/servo_example.m5f>`
+
+.. |write_us.png| image:: ../static/unit/servo/write_us.png
+.. |write_angle.png| image:: ../static/unit/servo/write_angle.png

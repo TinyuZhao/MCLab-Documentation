@@ -1,0 +1,16 @@
+.. |init_motor_module.png| image:: ../static/mclab/robocar_motor/lego_motor_init.png
+.. |move_forward.png| image:: ../static/mclab/robocar_motor/move_forward.png
+.. |move_backward.png| image:: ../static/mclab/robocar_motor/move_backward.png
+.. |move_right.png| image:: ../static/mclab/robocar_motor/move_right.png
+.. |move_left.png| image:: ../static/mclab/robocar_motor/move_left.png
+.. |rotate_right.png| image:: ../static/mclab/robocar_motor/rotate_right.png
+.. |rotate_left.png| image:: ../static/mclab/robocar_motor/rotate_left.png
+.. |set_motor_angle.png| image:: ../static/mclab/robocar_motor/set_motor_angle.png
+.. |set_motor_speed.png| image:: ../static/mclab/robocar_motor/set_motor_speed.png
+.. |motor_stop.png| image:: ../static/mclab/robocar_motor/motor_stop.png
+.. |get_encoder_count.png| image:: ../static/mclab/robocar_motor/get_encoder_count.png
+.. |get_encoder_vin_voltage.png| image:: ../static/mclab/robocar_motor/get_encoder_vin_voltage.png
+.. |clear_encoder_count.png| image:: ../static/mclab/robocar_motor/clear_encoder_count.png
+.. |angle_task.png| image:: ../static/mclab/robocar_motor/angle_task.png
+.. |dc_motor_example.m5f| replace:: :download:`dc_motor_example.m5f <../../../examples/ednex/MCLab/dc_motor/dc_motor_example.m5f>`
+.. |dc_motor_example.png| image:: ../static/mclab/robocar_motor/dc_motor_example.png

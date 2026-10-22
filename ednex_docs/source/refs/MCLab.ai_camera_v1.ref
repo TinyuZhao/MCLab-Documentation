@@ -1,0 +1,33 @@
+.. |get_barcode_context.png| image:: ../static/mclab/ai_camera_v1/get_barcode_context.png
+.. |get_barcode_type.png| image:: ../static/mclab/ai_camera_v1/get_barcode_type.png
+.. |get_color_box_detials.png| image:: ../static/mclab/ai_camera_v1/get_color_box_detials.png
+.. |get_color_box_number.png| image:: ../static/mclab/ai_camera_v1/get_color_box_number.png
+.. |get_discover_color.png| image:: ../static/mclab/ai_camera_v1/get_discover_color.png
+.. |get_face_detials.png| image:: ../static/mclab/ai_camera_v1/get_face_detials.png
+.. |get_face_number.png| image:: ../static/mclab/ai_camera_v1/get_face_number.png
+.. |get_qrcode_context.png| image:: ../static/mclab/ai_camera_v1/get_qrcode_context.png
+.. |get_qrcode_version.png| image:: ../static/mclab/ai_camera_v1/get_qrcode_version.png
+.. |get_rate.png| image:: ../static/mclab/ai_camera_v1/get_rate.png
+.. |get_signal.png| image:: ../static/mclab/ai_camera_v1/get_signal.png
+.. |init.png| image:: ../static/mclab/ai_camera_v1/init.png
+.. |set_roi.png| image:: ../static/mclab/ai_camera_v1/set_roi.png
+.. |set_track_color.png| image:: ../static/mclab/ai_camera_v1/set_track_color.png
+.. |facedetect_init.png| image:: ../static/mclab/ai_camera_v1/facedetect_init.png
+.. |colordetect_init.png| image:: ../static/mclab/ai_camera_v1/colordetect_init.png
+.. |colortrack_init.png| image:: ../static/mclab/ai_camera_v1/colortrack_init.png
+.. |qrcode_init.png| image:: ../static/mclab/ai_camera_v1/qrcode_init.png
+.. |barcode_init.png| image:: ../static/mclab/ai_camera_v1/barcode_init.png
+.. |motiondetect_init.png| image:: ../static/mclab/ai_camera_v1/motiondetect_init.png
+.. |trafficsignal_init.png| image:: ../static/mclab/ai_camera_v1/trafficsignal_init.png
+.. |ai_camera_v1_find_faces.m5f| replace:: :download:`ai_camera_v1_find_faces.m5f <../../../examples/ednex/MCLab/ai_camera_v1/ai_camera_v1_find_faces.m5f>`
+.. |ai_camera_v1_find_faces.png| image:: ../static/mclab/ai_camera_v1/ai_camera_v1_find_faces.png
+.. |ai_camera_v1_get_barcode.m5f| replace:: :download:`ai_camera_v1_get_barcode.m5f <../../../examples/ednex/MCLab/ai_camera_v1/ai_camera_v1_get_barcode.m5f>`
+.. |ai_camera_v1_get_barcode.png| image:: ../static/mclab/ai_camera_v1/ai_camera_v1_get_barcode.png
+.. |ai_camera_v1_get_color.m5f| replace:: :download:`ai_camera_v1_get_color.m5f <../../../examples/ednex/MCLab/ai_camera_v1/ai_camera_v1_get_color.m5f>`
+.. |ai_camera_v1_get_color.png| image:: ../static/mclab/ai_camera_v1/ai_camera_v1_get_color.png
+.. |ai_camera_v1_get_motion_rate.m5f| replace:: :download:`ai_camera_v1_get_motion_rate.m5f <../../../examples/ednex/MCLab/ai_camera_v1/ai_camera_v1_get_motion_rate.m5f>`
+.. |ai_camera_v1_get_motion_rate.png| image:: ../static/mclab/ai_camera_v1/ai_camera_v1_get_motion_rate.png
+.. |ai_camera_v1_get_qrcode.m5f| replace:: :download:`ai_camera_v1_get_qrcode.m5f <../../../examples/ednex/MCLab/ai_camera_v1/ai_camera_v1_get_qrcode.m5f>`
+.. |ai_camera_v1_get_qrcode.png| image:: ../static/mclab/ai_camera_v1/ai_camera_v1_get_qrcode.png
+.. |ai_camera_v1_get_traffic_signal.m5f| replace:: :download:`ai_camera_v1_get_traffic_signal.m5f <../../../examples/ednex/MCLab/ai_camera_v1/ai_camera_v1_get_traffic_signal.m5f>`
+.. |ai_camera_v1_get_traffic_signal.png| image:: ../static/mclab/ai_camera_v1/ai_camera_v1_get_traffic_signal.png

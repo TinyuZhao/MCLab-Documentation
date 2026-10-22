@@ -1,0 +1,12 @@
+.. |finger_example.png| image:: ../static/unit/finger/finger_example.png
+.. |finger_example.m5f| replace:: :download:`finger_example.m5f <../../../examples/ednex/unit/finger/finger_example.m5f>`
+
+.. |removeUser.png| image:: ../static/unit/finger/removeUser.png
+.. |uart_port_id.png| image:: ../static/unit/finger/uart_port_id.png
+.. |addUser.png| image:: ../static/unit/finger/addUser.png
+.. |readUser.png| image:: ../static/unit/finger/readUser.png
+.. |removeAllUser.png| image:: ../static/unit/finger/removeAllUser.png
+.. |getUnknownCb.png| image:: ../static/unit/finger/getUnknownCb.png
+.. |state.png| image:: ../static/unit/finger/state.png
+.. |access.png| image:: ../static/unit/finger/access.png
+.. |id.png| image:: ../static/unit/finger/id.png

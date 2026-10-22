@@ -1,0 +1,18 @@
+.. |slider_example.png| image:: ../static/ui/slider/slider_example.png
+.. |slider_example.m5f| replace:: :download:`slider_example.m5f <../../../examples/ednex/ui/slider/slider_example.m5f>`
+
+.. |set_bg_color.png| image:: ../static/ui/slider/set_bgcolor.png
+.. |set_bg_color_rgb.png| image:: ../static/ui/slider/set_bgcolor_rgb.png
+.. |set_bg_color_input.png| image:: ../static/ui/slider/set_bgcolor_input.png
+.. |set_color.png| image:: ../static/ui/slider/set_color.png
+.. |set_color_rgb.png| image:: ../static/ui/slider/set_color_rgb.png
+.. |set_color_input.png| image:: ../static/ui/slider/set_color_input.png
+.. |set_value.png| image:: ../static/ui/slider/set_value.png
+.. |set_range.png| image:: ../static/ui/slider/set_range.png
+.. |get_value.png| image:: ../static/ui/slider/get_value.png
+.. |set_pos.png| image:: ../static/ui/slider/set_pos.png
+.. |set_align.png| image:: ../static/ui/slider/set_align.png
+.. |set_size.png| image:: ../static/ui/slider/set_size.png
+.. |set_hidden.png| image:: ../static/ui/slider/set_hidden.png
+.. |delete.png| image:: ../static/ui/slider/delete.png
+.. |set_cb.png| image:: ../static/ui/slider/set_cb.png

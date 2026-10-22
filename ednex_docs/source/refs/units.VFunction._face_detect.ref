@@ -1,0 +1,6 @@
+.. |v_function_face_detect_example.png| image:: ../static/unit/v_function_face_detect/v_function_face_detect_example.png
+.. |v_function_face_detect_example.m5f| replace:: :download:`v_function_face_detect_example.m5f <../../../examples/ednex/unit/v_function_face_detect/v_function_face_detect_example.m5f>`
+
+.. |init.png| image:: ../static/unit/v_function/face_detect_init.png
+.. |getFaceNumber.png| image:: ../static/unit/v_function/getFaceNumber.png
+.. |getFaceDetail.png| image:: ../static/unit/v_function/getFaceDetail.png

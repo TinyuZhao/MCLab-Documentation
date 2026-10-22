@@ -1,0 +1,6 @@
+.. |deinit.png| image:: ../static/hardware/spi/deinit.png
+.. |init.png| image:: ../static/hardware/spi/init.png
+.. |read.png| image:: ../static/hardware/spi/read.png
+.. |readinto.png| image:: ../static/hardware/spi/readinto.png
+.. |write.png| image:: ../static/hardware/spi/write.png
+.. |write_readinto.png| image:: ../static/hardware/spi/write_readinto.png

@@ -1,0 +1,4 @@
+.. |ssr_example.png| image:: ../static/unit/ssr/ssr_example.png
+.. |ssr_example.m5f| replace:: :download:`ssr_example.m5f <../../../examples/ednex/unit/ssr/ssr_example.m5f>`
+
+.. |ssr_control.png| image:: ../static/unit/ssr/ssr_control.png

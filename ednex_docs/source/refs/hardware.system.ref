@@ -1,0 +1,3 @@
+.. |reset.png| image:: ../static/hardware/system/reset.png
+.. |system_example.png| image:: ../static/hardware/system/system_example.png
+.. |system_example.m5f| replace:: :download:`system_example.m5f <../../../examples/ednex/hardware/system/system_example.m5f>`

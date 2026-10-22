@@ -1,0 +1,7 @@
+.. |v_function_dm_code_example.png| image:: ../static/unit/v_function_dm_code/v_function_dm_code_example.png
+.. |v_function_dm_code_example.m5f| replace:: :download:`v_function_dm_code_example.m5f <../../../examples/ednex/unit/v_function_dm_code/v_function_dm_code_example.m5f>`
+
+.. |init.png| image:: ../static/unit/v_function/dm_code_init.png
+.. |getDMcodeText.png| image:: ../static/unit/v_function/getDMcodeText.png
+.. |getDMcodeRotation.png| image:: ../static/unit/v_function/getDMcodeRotation.png
+.. |getDMcodeLocation.png| image:: ../static/unit/v_function/getDMcodeLocation.png

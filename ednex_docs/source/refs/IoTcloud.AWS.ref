@@ -1,0 +1,7 @@
+.. |init.png| image:: ../static/iot_cloud/aws/init.png
+.. |start.png| image:: ../static/iot_cloud/aws/start.png
+.. |subscribe.png| image:: ../static/iot_cloud/aws/subscribe.png
+.. |publish.png| image:: ../static/iot_cloud/aws/publish.png
+.. |get_topic_data.png| image:: ../static/iot_cloud/aws/get_topic_data.png
+.. |aws_example.png| image:: ../static/iot_cloud/aws/aws_example.png
+.. |aws_example.m5f| replace:: :download:`aws_example.m5f <../../../examples/ednex/iot_cloud/aws/aws_example.m5f>`

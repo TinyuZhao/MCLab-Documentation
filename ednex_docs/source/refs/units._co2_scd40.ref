@@ -1,0 +1,23 @@
+.. |co2_example.png| image:: ../static/unit/co2/co2_example.png
+.. |co2_example.m5f| replace:: :download:`co2_example.m5f <../../../examples/ednex/unit/co2/co2_example.m5f>`
+
+.. |factory_reset.png| image:: ../static/unit/co2/factory_reset.png
+.. |force_calibration.png| image:: ../static/unit/co2/force_calibration.png
+.. |get_calibration_enabled.png| image:: ../static/unit/co2/get_calibration_enabled.png
+.. |get_sensor_altitude.png| image:: ../static/unit/co2/get_sensor_altitude.png
+.. |get_temperature_offset.png| image:: ../static/unit/co2/get_temperature_offset.png
+.. |reinit.png| image:: ../static/unit/co2/reinit.png
+.. |self_test.png| image:: ../static/unit/co2/self_test.png
+.. |serial_number.png| image:: ../static/unit/co2/serial_number.png
+.. |set_ambient_pressure.png| image:: ../static/unit/co2/set_ambient_pressure.png
+.. |set_sensor_altitude.png| image:: ../static/unit/co2/set_sensor_altitude.png
+.. |set_temperature_offset.png| image:: ../static/unit/co2/set_temperature_offset.png
+.. |start_low_periodic_measurement.png| image:: ../static/unit/co2/start_low_periodic_measurement.png
+.. |start_periodic_measurement.png| image:: ../static/unit/co2/start_periodic_measurement.png
+.. |stop_periodic_measurement.png| image:: ../static/unit/co2/stop_periodic_measurement.png
+.. |wake_up.png| image:: ../static/unit/co2/wake_up.png
+.. |read_sensor_measurement.png| image:: ../static/unit/co2/read_sensor_measurement.png
+.. |set_calibration_enabled.png| image:: ../static/unit/co2/set_calibration_enabled.png
+.. |persist_settings.png| image:: ../static/unit/co2/persist_settings.png
+.. |sleep_mode.png| image:: ../static/unit/co2/sleep_mode.png
+.. |data_isready.png| image:: ../static/unit/co2/data_isready.png

@@ -1,0 +1,8 @@
+.. |v_function_tag_reader_example.png| image:: ../static/unit/v_function_tag_reader/v_function_tag_reader_example.png
+.. |v_function_tag_reader_example.m5f| replace:: :download:`v_function_tag_reader_example.m5f <../../../examples/ednex/unit/v_function_tag_reader/v_function_tag_reader_example.m5f>`
+
+.. |init.png| image:: ../static/unit/v_function/tag_reader_init.png
+.. |getTotalNumber.png| image:: ../static/unit/v_function/getTotalNumber.png
+.. |getBinstr.png| image:: ../static/unit/v_function/getBinstr.png
+.. |getCode.png| image:: ../static/unit/v_function/getCode.png
+.. |getTagLocation.png| image:: ../static/unit/v_function/getTagLocation.png

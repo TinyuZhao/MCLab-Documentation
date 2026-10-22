@@ -1,0 +1,7 @@
+.. |module_4in8out_example.m5f| replace:: :download:`module_4in8out_example.m5f <../../../examples/ednex/module/module_4in8out/module_4in8out_example.m5f>`
+.. |module_4in8out_example.png| image:: ../static/module/module_4in8out/module_4in8out_example.png
+.. |init_i2c_address.png| image:: ../static/module/module_4in8out/init_i2c_address.png
+.. |read_input_pin.png| image:: ../static/module/module_4in8out/read_input_pin.png
+.. |read_status.png| image:: ../static/module/module_4in8out/read_status.png
+.. |set_i2c_address.png| image:: ../static/module/module_4in8out/set_i2c_address.png
+.. |write_output_pin.png| image:: ../static/module/module_4in8out/write_output_pin.png

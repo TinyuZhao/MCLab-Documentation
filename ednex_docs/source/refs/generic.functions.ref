@@ -1,0 +1,5 @@
+.. |defnoreturn.png| image:: ../static/generic/functions/defnoreturn.png
+.. |defreturn.png| image:: ../static/generic/functions/defreturn.png
+.. |ifreturn.png| image:: ../static/generic/functions/ifreturn.png
+.. |functions_example.m5f| replace:: :download:`functions_example.m5f <../../../examples/ednex/generic/functions/functions_example.m5f>`
+.. |functions_example.png| image:: ../static/generic/functions/functions_example.png

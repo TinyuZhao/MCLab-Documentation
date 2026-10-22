@@ -1,0 +1,7 @@
+.. |get_value.png| image:: ../static/hardware/pin/get_value.png
+.. |init.png| image:: ../static/hardware/pin/init.png
+.. |off.png| image:: ../static/hardware/pin/off.png
+.. |on.png| image:: ../static/hardware/pin/on.png
+.. |set_value.png| image:: ../static/hardware/pin/set_value.png
+.. |pin_example.png| image:: ../static/hardware/pin/pin_example.png
+.. |pin_example.m5f| replace:: :download:`pin_example.m5f <../../../examples/ednex/hardware/pin/pin_example.m5f>`

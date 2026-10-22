@@ -1,0 +1,8 @@
+.. |VMeter_example.png| image:: ../static/unit/VMeter/VMeter_example.png
+.. |VMeter_example.m5f| replace:: :download:`VMeter_example.m5f <../../../examples/ednex/unit/VMeter/VMeter_example.m5f>`
+
+.. |raw.png| image:: ../static/unit/VMeter/raw.png
+.. |setMode.png| image:: ../static/unit/VMeter/setMode.png
+.. |setRate.png| image:: ../static/unit/VMeter/setRate.png
+.. |voltage.png| image:: ../static/unit/VMeter/voltage.png
+.. |setGain.png| image:: ../static/unit/VMeter/setGain.png

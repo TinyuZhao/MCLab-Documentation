@@ -1,0 +1,13 @@
+.. |boolean.png| image:: ../static/generic/logic/boolean.png
+.. |compare.png| image:: ../static/generic/logic/compare.png
+.. |if.png| image:: ../static/generic/logic/if.png
+.. |ifelse.png| image:: ../static/generic/logic/ifelse.png
+.. |negate.png| image:: ../static/generic/logic/negate.png
+.. |null.png| image:: ../static/generic/logic/null.png
+.. |operation.png| image:: ../static/generic/logic/operation.png
+.. |switch.png| image:: ../static/generic/logic/switch.png
+.. |ternary.png| image:: ../static/generic/logic/ternary.png
+.. |try_except.png| image:: ../static/generic/logic/try_except.png
+.. |when.png| image:: ../static/generic/logic/when.png
+.. |logic_example.m5f| replace:: :download:`logic_example.m5f <../../../examples/ednex/generic/logic/logic_example.m5f>`
+.. |logic_example.png| image:: ../static/generic/logic/logic_example.png

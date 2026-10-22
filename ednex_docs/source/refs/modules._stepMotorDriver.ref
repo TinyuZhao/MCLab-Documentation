@@ -1,0 +1,15 @@
+.. |stepmotordriver_example.m5f| replace:: :download:`stepmotordriver_example.m5f <../../../examples/ednex/module/stepmotordriver/stepmotordriver_example.m5f>`
+.. |stepmotordriver_example.png| image:: ../static/module/stepmotordriver/stepmotordriver_example.png
+.. |enableMotor.png| image:: ../static/module/stepmotordriver/enableMotor.png
+.. |initDevice.png| image:: ../static/module/stepmotordriver/initDevice.png
+.. |modbus_init.png| image:: ../static/module/stepmotordriver/modbus_init.png
+.. |readFaultPinStatus.png| image:: ../static/module/stepmotordriver/readFaultPinStatus.png
+.. |readIOstatus.png| image:: ../static/module/stepmotordriver/readIOstatus.png
+.. |readPinStatus.png| image:: ../static/module/stepmotordriver/readPinStatus.png
+.. |readStatus.png| image:: ../static/module/stepmotordriver/readStatus.png
+.. |resetMotor.png| image:: ../static/module/stepmotordriver/resetMotor.png
+.. |setI2cAddress.png| image:: ../static/module/stepmotordriver/setI2cAddress.png
+.. |setMicroStepSelect.png| image:: ../static/module/stepmotordriver/setMicroStepSelect.png
+.. |setStepDir.png| image:: ../static/module/stepmotordriver/setStepDir.png
+.. |setStepPulse.png| image:: ../static/module/stepmotordriver/setStepPulse.png
+.. |singleMotorCtrl.png| image:: ../static/module/stepmotordriver/singleMotorCtrl.png

@@ -1,0 +1,10 @@
+.. |v_function_color_track_example.png| image:: ../static/unit/v_function_color_track/v_function_color_track_example.png
+.. |v_function_color_track_example.m5f| replace:: :download:`v_function_color_track_example.m5f <../../../examples/ednex/unit/v_function_color_track/v_function_color_track_example.m5f>`
+
+.. |init.png| image:: ../static/unit/v_function/color_track_init.png
+.. |getBoxNumber.png| image:: ../static/unit/v_function/color_getBoxNumber.png
+.. |getBoxDetail.png| image:: ../static/unit/v_function/color_getBoxDetail.png
+.. |setTrackColorByLAB.png| image:: ../static/unit/v_function/color_setTrackColorByLAB.png
+.. |setBoxWidthThreshold.png| image:: ../static/unit/v_function/color_setBoxWidthThreshold.png
+.. |setScanInterval.png| image:: ../static/unit/v_function/color_setScanInterval.png
+.. |setBoxMergeThreshold.png| image:: ../static/unit/v_function/color_setBoxMergeThreshold.png

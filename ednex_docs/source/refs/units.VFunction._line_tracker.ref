@@ -1,0 +1,7 @@
+.. |v_function_line_tracker_example.png| image:: ../static/unit/v_function_line_tracker/v_function_line_tracker_example.png
+.. |v_function_line_tracker_example.m5f| replace:: :download:`v_function_line_tracker_example.m5f <../../../examples/ednex/unit/v_function_line_tracker/v_function_line_tracker_example.m5f>`
+
+.. |init.png| image:: ../static/unit/v_function/line_tracker_init.png
+.. |getAngle.png| image:: ../static/unit/v_function/getAngle.png
+.. |setLineColorByLAB.png| image:: ../static/unit/v_function/setLineColorByLAB.png
+.. |setLineAreaWeight.png| image:: ../static/unit/v_function/setLineAreaWeight.png

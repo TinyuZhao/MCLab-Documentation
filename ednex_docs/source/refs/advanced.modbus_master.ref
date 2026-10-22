@@ -1,0 +1,12 @@
+.. |init.png| image:: ../static/advanced/advanced_modbus_master/init.png
+.. |read_coils.png| image:: ../static/advanced/advanced_modbus_master/read_coils.png
+.. |read_discrete_inputs.png| image:: ../static/advanced/advanced_modbus_master/read_discrete_inputs.png
+.. |read_holding_registers.png| image:: ../static/advanced/advanced_modbus_master/read_holding_registers.png
+.. |read_input_registers.png| image:: ../static/advanced/advanced_modbus_master/read_input_registers.png
+.. |write_single_coil.png| image:: ../static/advanced/advanced_modbus_master/write_single_coil.png
+.. |write_single_register.png| image:: ../static/advanced/advanced_modbus_master/write_single_register.png
+.. |write_multiple_coils.png| image:: ../static/advanced/advanced_modbus_master/write_multiple_coils.png
+.. |write_multiple_registers.png| image:: ../static/advanced/advanced_modbus_master/write_multiple_registers.png
+.. |close.png| replace:: (No Blockly image published for close.)
+.. |modbus_master_example.m5f| replace:: :download:`modbus_master.m5f <../../../examples/ednex/advanced/modbus_master/modbus_master_example.m5f>`
+.. |modbus_master_example.png| image:: ../static/advanced/modbus_master/modbus_master_example.png

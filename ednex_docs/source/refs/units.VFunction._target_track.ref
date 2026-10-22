@@ -1,0 +1,6 @@
+.. |v_function_target_track_example.png| image:: ../static/unit/v_function_target_track/v_function_target_track_example.png
+.. |v_function_target_track_example.m5f| replace:: :download:`v_function_target_track_example.m5f <../../../examples/ednex/unit/v_function_target_track/v_function_target_track_example.m5f>`
+
+.. |init.png| image:: ../static/unit/v_function/target_track_init.png
+.. |getBoxDetail.png| image:: ../static/unit/v_function/target_getBoxDetail.png
+.. |setTrackAreaCoordinate.png| image:: ../static/unit/v_function/setTrackAreaCoordinate.png

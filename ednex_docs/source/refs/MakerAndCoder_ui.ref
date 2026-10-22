@@ -1,0 +1,7 @@
+.. |clean_screen.png| image:: ../static/ui/screen/clean_screen.png
+.. |set_screen_bg_color.png| image:: ../static/ui/screen/set_screen_bg_color.png
+.. |set_screen_bg_color_rgb.png| image:: ../static/ui/screen/set_screen_bg_color_rgb.png
+.. |set_screen_bg_color_input.png| image:: ../static/ui/screen/set_screen_bg_color_input.png
+.. |set_screen_brightness.png| image:: ../static/ui/screen/set_screen_brightness.png
+.. |screen_example.m5f| replace:: :download:`screen_example.m5f <../../../examples/ednex/ui/screen/screen_example.m5f>`
+.. |screen_example.png| image:: ../static/ui/screen/screen_example.png

@@ -1,0 +1,7 @@
+.. |v_function_apriltag_example.png| image:: ../static/unit/v_function_apriltag/v_function_apriltag_example.png
+.. |v_function_apriltag_example.m5f| replace:: :download:`v_function_apriltag_example.m5f <../../../examples/ednex/unit/v_function_apriltag/v_function_apriltag_example.m5f>`
+
+.. |init.png| image:: ../static/unit/v_function/apriltag_init.png
+.. |getAprilTagcodeRotation.png| image:: ../static/unit/v_function/getAprilTagcodeRotation.png
+.. |getAprilTagcodeLocation.png| image:: ../static/unit/v_function/getAprilTagcodeLocation.png
+.. |getAprilTagcodeTranslation.png| image:: ../static/unit/v_function/getAprilTagcodeTranslation.png

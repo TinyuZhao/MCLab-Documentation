@@ -1,0 +1,6 @@
+.. |atten.png| image:: ../static/hardware/adc/atten.png
+.. |init.png| image:: ../static/hardware/adc/init.png
+.. |read.png| image:: ../static/hardware/adc/read.png
+.. |width.png| image:: ../static/hardware/adc/width.png
+.. |adc_example.png| image:: ../static/hardware/adc/adc_example.png
+.. |adc_example.m5f| replace:: :download:`adc_example.m5f <../../../examples/ednex/hardware/adc/adc_example.m5f>`

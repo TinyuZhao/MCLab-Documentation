@@ -1,0 +1,5 @@
+.. |sleep.png| image:: ../static/generic/timer/sleep.png
+.. |sleep_ms.png| image:: ../static/generic/timer/sleep_ms.png
+.. |ticks_ms.png| image:: ../static/generic/timer/ticks_ms.png
+.. |timer_example.m5f| replace:: :download:`timer_example.m5f <../../../examples/ednex/generic/timer/timer_example.m5f>`
+.. |timer_example.png| image:: ../static/generic/timer/timer_example.png

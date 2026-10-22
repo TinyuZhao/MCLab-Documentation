@@ -1,0 +1,10 @@
+.. |any.png| image:: ../static/hardware/uart/any.png
+.. |init.png| image:: ../static/hardware/uart/init.png
+.. |init_pins.png| image:: ../static/hardware/uart/init_pins.png
+.. |read.png| image:: ../static/hardware/uart/read.png
+.. |read_characters.png| image:: ../static/hardware/uart/read_characters.png
+.. |readline.png| image:: ../static/hardware/uart/readline.png
+.. |write.png| image:: ../static/hardware/uart/write.png
+.. |write_raw_data.png| image:: ../static/hardware/uart/write_raw_data.png
+.. |uart_example.png| image:: ../static/hardware/uart/uart_example.png
+.. |uart_example.m5f| replace:: :download:`uart_example.m5f <../../../examples/ednex/hardware/uart/uart_example.m5f>`

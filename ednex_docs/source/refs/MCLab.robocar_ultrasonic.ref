@@ -1,0 +1,7 @@
+.. |ultrasonic_port_init.png| image:: ../static/mclab/robocar_ultrasonic/ultrasonic_port_init.png
+.. |ultrasonic_rgb_sensor.png| image:: ../static/mclab/robocar_ultrasonic/ultrasonic_rgb_sensor.png
+.. |ultrasonic_rgb_color.png| image:: ../static/mclab/robocar_ultrasonic/ultrasonic_rgb_color.png
+.. |ultrasonic_rgb_color_from.png| image:: ../static/mclab/robocar_ultrasonic/ultrasonic_rgb_color_from.png
+.. |ultrasonic_rgb_color_all.png| image:: ../static/mclab/robocar_ultrasonic/ultrasonic_rgb_color_all.png
+.. |ultrasonic_example.png| image:: ../static/mclab/robocar_ultrasonic/ultrasonic_example.png
+.. |ultrasonic_example.m5f| replace:: :download:`ultrasonic_example.m5f <../../../examples/ednex/MCLab/ultrasonic/ultrasonic_example.m5f>`

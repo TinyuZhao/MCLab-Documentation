@@ -1,0 +1,4 @@
+.. |dumps.png| image:: ../static/generic/json/dumps.png
+.. |loads.png| image:: ../static/generic/json/loads.png
+.. |json_example.m5f| replace:: :download:`json_example.m5f <../../../examples/ednex/generic/json/json_example.m5f>`
+.. |json_example.png| image:: ../static/generic/json/json_example.png

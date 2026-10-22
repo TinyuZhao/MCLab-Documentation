@@ -1,0 +1,5 @@
+.. |RF433R_example.m5f| replace:: :download:`RF433R_example.m5f <../../../examples/ednex/unit/RF433R/RF433R_example.m5f>`
+.. |start_receiver.png| image:: ../static/unit/rf433rx/start_receiver.png
+.. |stop_receiver.png| image:: ../static/unit/rf433rx/stop_receiver.png
+.. |clear_buffer.png| image:: ../static/unit/rf433rx/clear_buffer.png
+.. |RF433R_example.png| image:: ../static/unit/rf433rx/rf433r_example.png

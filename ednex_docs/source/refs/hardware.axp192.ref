@@ -1,0 +1,21 @@
+.. |power_example.png| image:: ../static/hardware/power/power_example.png
+.. |power_example.m5f| replace:: :download:`power_example.m5f <../../../examples/ednex/hardware/power/power_example.m5f>`
+.. |vibration_example.png| image:: ../static/hardware/vibration/vibration_example.png
+.. |vibration_example.m5f| replace:: :download:`vibration_example.m5f <../../../examples/ednex/hardware/vibration/vibration_example.m5f>`
+.. |getChargeState.png| image:: ../static/hardware/power/getChargeState.png
+.. |getPmuInTemp.png| image:: ../static/hardware/power/getTemperature.png
+.. |getBatVoltage.png| image:: ../static/hardware/power/getBatVoltage.png
+.. |getBatPercent.png| image:: ../static/hardware/power/getBatPercent.png
+.. |getBatCurrent.png| image:: ../static/hardware/power/getBatCurrent.png
+.. |getVBusVoltage.png| image:: ../static/hardware/power/getVBusVoltage.png
+.. |powerOff.png| image:: ../static/hardware/power/powerOff.png
+.. |setChargeCurrent.png| image:: ../static/hardware/power/setChargeCurrent.png
+.. |setLCDBrightness.png| image:: ../static/hardware/power/setScreenBrightness.png
+.. |setPowerLED.png| image:: ../static/hardware/power/setPowerLED.png
+.. |setBusPowerMode.png| image:: ../static/hardware/power/setBusMode.png
+.. |setVibrationIntensity.png| image:: ../static/hardware/vibration/intensity.png
+.. |setVibrationEnable.png| image:: ../static/hardware/vibration/on.png
+.. |getVinVoltage.png| image:: ../static/hardware/power/getVinVoltage.png
+.. |getVinCurrent.png| image:: ../static/hardware/power/getVinCurrent.png
+.. |getVBusCurrent.png| image:: ../static/hardware/power/getVBusCurrent.png
+.. |setLDOVoltage.png| image:: ../static/hardware/power/setLDOVoltage.png

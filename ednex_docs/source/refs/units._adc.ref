@@ -1,0 +1,3 @@
+.. |adc_example.png| image:: ../static/unit/adc/adc_example.png
+.. |adc_example.m5f| replace:: :download:`adc_example.m5f <../../../examples/ednex/unit/adc/adc_example.m5f>`
+.. |voltage.png| image:: ../static/unit/adc/voltage.png

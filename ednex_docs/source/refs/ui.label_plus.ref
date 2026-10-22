@@ -1,0 +1,18 @@
+.. |label_plus_example.png| image:: ../static/ui/label_plus/label_plus_example.png
+.. |label_plus_example.m5f| replace:: :download:`label_plus_example.m5f <../../../examples/ednex/ui/label_plus/label_plus_example.m5f>`
+
+.. |set_text.png| image:: ../static/ui/label_plus/set_text.png
+.. |setUpdateEnable.png| image:: ../static/ui/label_plus/set_update.png
+.. |setUpdatePeriod.png| image:: ../static/ui/label_plus/set_interval.png
+.. |set_pos.png| image:: ../static/ui/label_plus/set_position.png
+.. |set_text_color.png| image:: ../static/ui/label_plus/set_color.png
+.. |set_text_color_rgb.png| image:: ../static/ui/label_plus/set_color_rgb.png
+.. |set_text_color_input.png| image:: ../static/ui/label_plus/set_color_input.png
+.. |set_text_font.png| image:: ../static/ui/label_plus/set_font.png
+.. |set_long_mode.png| image:: ../static/ui/label_plus/set_text_mode.png
+.. |set_align.png| image:: ../static/ui/label_plus/set_align.png
+.. |set_size.png| image:: ../static/ui/label_plus/set_width.png
+.. |get_width.png| image:: ../static/ui/label_plus/get_width.png
+.. |isValidData.png| image:: ../static/ui/label_plus/is_valid_data.png
+.. |getData.png| image:: ../static/ui/label_plus/get_display_data.png
+.. |set_hidden.png| image:: ../static/ui/label_plus/set_mode.png

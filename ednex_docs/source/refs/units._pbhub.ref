@@ -1,0 +1,19 @@
+.. |pbhub_example.png| image:: ../static/unit/pbhub/pbhub_example.png
+.. |pbhub_example.m5f| replace:: :download:`pbhub_example.m5f <../../../examples/ednex/unit/pbhub/pbhub_example.m5f>`
+
+.. |digitalRead.png| image:: ../static/unit/pbhub/digitalRead.png
+.. |digitalWrite.png| image:: ../static/unit/pbhub/digitalWrite.png
+.. |pwmRead.png| image:: ../static/unit/pbhub/pwmRead.png
+.. |pwmWrite.png| image:: ../static/unit/pbhub/pwmWrite.png
+.. |analogRead.png| image:: ../static/unit/pbhub/analogRead.png
+.. |setRgbNum.png| image:: ../static/unit/pbhub/setRgbNum.png
+.. |setColorPos.png| image:: ../static/unit/pbhub/setColorPos.png
+.. |setColor.png| image:: ../static/unit/pbhub/setColor.png
+.. |setBrightness.png| image:: ../static/unit/pbhub/setBrightness.png
+.. |setServoAngle.png| image:: ../static/unit/pbhub/setServoAngle.png
+.. |setServoPulse.png| image:: ../static/unit/pbhub/setServoPulse.png
+.. |read_status.png| image:: ../static/unit/pbhub/read_status.png
+.. |init_i2c_address.png| image:: ../static/unit/pbhub/init_i2c_address.png
+.. |set_i2c_address.png| image:: ../static/unit/pbhub/set_i2c_address.png
+.. |setColorPos_input.png| image:: ../static/unit/pbhub/setColorPos_input.png
+.. |setColor_input.png| image:: ../static/unit/pbhub/setColor_input.png

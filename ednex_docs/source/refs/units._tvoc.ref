@@ -1,0 +1,10 @@
+.. |tvoc_example.png| image:: ../static/unit/tvoc/tvoc_example.png
+.. |tvoc_example.m5f| replace:: :download:`tvoc_example.m5f <../../../examples/ednex/unit/tvoc/tvoc_example.m5f>`
+
+.. |TVOC.png| image:: ../static/unit/tvoc/TVOC.png
+.. |baseline_TVOC.png| image:: ../static/unit/tvoc/baseline_TVOC.png
+.. |eCO2.png| image:: ../static/unit/tvoc/eCO2.png
+.. |baseline_eCO2.png| image:: ../static/unit/tvoc/baseline_eCO2.png
+.. |Ethanol.png| image:: ../static/unit/tvoc/Ethanol.png
+.. |H2.png| image:: ../static/unit/tvoc/H2.png
+.. |get_iaq_baseline.png| image:: ../static/unit/tvoc/get_iaq_baseline.png

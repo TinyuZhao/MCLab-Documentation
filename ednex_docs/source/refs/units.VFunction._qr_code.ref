@@ -1,0 +1,6 @@
+.. |v_function_qr_code_example.png| image:: ../static/unit/v_function_qr_code/v_function_qr_code_example.png
+.. |v_function_qr_code_example.m5f| replace:: :download:`v_function_qr_code_example.m5f <../../../examples/ednex/unit/v_function_qr_code/v_function_qr_code_example.m5f>`
+
+.. |init.png| image:: ../static/unit/v_function/qr_init.png
+.. |getQRtext.png| image:: ../static/unit/v_function/getQRtext.png
+.. |getQRversion.png| image:: ../static/unit/v_function/getQRversion.png

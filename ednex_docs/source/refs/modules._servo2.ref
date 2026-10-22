@@ -1,0 +1,6 @@
+.. |servo2_example.m5f| replace:: :download:`servo2_example.m5f <../../../examples/ednex/module/servo2/servo2_example.m5f>`
+.. |servo2_example.png| image:: ../static/module/servo2/servo2_example.png
+.. |position.png| image:: ../static/module/servo2/position.png
+.. |release.png| image:: ../static/module/servo2/release.png
+.. |pulse.png| image:: ../static/module/servo2/pulse.png
+.. |duty.png| image:: ../static/module/servo2/duty.png

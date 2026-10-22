@@ -1,0 +1,7 @@
+.. |mqtt_example.png| image:: ../static/iot_cloud/mqtt/mqtt_example.png
+.. |mqtt_example.m5f| replace:: :download:`mqtt_example.m5f <../../../examples/ednex/iot_cloud/mqtt/mqtt_example.m5f>`
+.. |set_client.png| image:: ../static/iot_cloud/mqtt/set_client.png
+.. |set_last_will.png| image:: ../static/iot_cloud/mqtt/set_last_will.png
+.. |start.png| image:: ../static/iot_cloud/mqtt/start.png
+.. |subscribe.png| image:: ../static/iot_cloud/mqtt/subscribe.png
+.. |publish.png| image:: ../static/iot_cloud/mqtt/publish.png

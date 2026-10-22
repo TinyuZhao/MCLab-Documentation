@@ -1,0 +1,11 @@
+.. |left_pos_update_cb.png| image:: ../static/mclab/gamepad/left_pos_update_cb.png
+.. |right_pos_update_cb.png| image:: ../static/mclab/gamepad/right_pos_update_cb.png
+.. |init.png| image:: ../static/mclab/gamepad/init.png
+.. |is_connected.png| image:: ../static/mclab/gamepad/is_connected.png
+.. |scan.png| image:: ../static/mclab/gamepad/scan.png
+.. |connect.png| image:: ../static/mclab/gamepad/connect.png
+.. |disconnect.png| image:: ../static/mclab/gamepad/disconnect.png
+.. |get_button_state.png| image:: ../static/mclab/gamepad/get_button_state.png
+.. |get_joystick_pos.png| image:: ../static/mclab/gamepad/get_joystick_pos.png
+.. |gamepad_example.m5f| replace:: :download:`gamepad_example.m5f <../../../examples/ednex/MCLab/gamepad/gamepad_example.m5f>`
+.. |button_cb.png| image:: ../static/mclab/gamepad/button_cb.png

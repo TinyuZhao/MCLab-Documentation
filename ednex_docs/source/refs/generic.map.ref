@@ -1,0 +1,9 @@
+.. |add_key.png| image:: ../static/generic/map/add_key.png
+.. |clear.png| image:: ../static/generic/map/clear.png
+.. |contains_key.png| image:: ../static/generic/map/contains_key.png
+.. |create.png| image:: ../static/generic/map/create.png
+.. |delete_key.png| image:: ../static/generic/map/delete_key.png
+.. |get.png| image:: ../static/generic/map/get.png
+.. |set_key.png| image:: ../static/generic/map/set_key.png
+.. |map_example.m5f| replace:: :download:`map_example.m5f <../../../examples/ednex/generic/map/map_example.m5f>`
+.. |map_example.png| image:: ../static/generic/map/map_example.png

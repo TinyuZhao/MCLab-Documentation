@@ -1,0 +1,4 @@
+.. |limit_example.png| image:: ../static/unit/limit/limit_example.png
+.. |limit_example.m5f| replace:: :download:`limit_example.m5f <../../../examples/ednex/unit/limit/limit_example.m5f>`
+
+.. |get_switch_status.png| image:: ../static/unit/limit/get_switch_status.png

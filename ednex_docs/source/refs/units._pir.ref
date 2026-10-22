@@ -1,0 +1,4 @@
+.. |pir_example.png| image:: ../static/unit/pir/pir_example.png
+.. |pir_example.m5f| replace:: :download:`pir_example.m5f <../../../examples/ednex/unit/pir/pir_example.m5f>`
+
+.. |state.png| image:: ../static/unit/pir/state.png

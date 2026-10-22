@@ -1,0 +1,5 @@
+.. |reflective_ir_example.png| image:: ../static/unit/reflective_ir/reflective_ir_example.png
+.. |reflective_ir_example.m5f| replace:: :download:`reflective_ir_example.m5f <../../../examples/ednex/unit/reflective_ir/reflective_ir_example.m5f>`
+
+.. |get_analog_output.png| image:: ../static/unit/reflective_ir/get_analog_output.png
+.. |get_digital_output.png| image:: ../static/unit/reflective_ir/get_digital_output.png

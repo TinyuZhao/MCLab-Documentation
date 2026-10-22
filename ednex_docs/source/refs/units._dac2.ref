@@ -1,0 +1,6 @@
+.. |dac2_example.png| image:: ../static/unit/dac2/dac2_example.png
+.. |dac2_example.m5f| replace:: :download:`dac2_example.m5f <../../../examples/ednex/unit/dac2/dac2_example.m5f>`
+
+.. |setDACOutputVoltageRange.png| image:: ../static/unit/dac2/setDACOutputVoltageRange.png
+.. |setVoltage.png| image:: ../static/unit/dac2/setVoltage.png
+.. |setVoltageBoth.png| image:: ../static/unit/dac2/setVoltageBoth.png

@@ -1,0 +1,18 @@
+.. |dcssr_example.png| image:: ../static/unit/dcssr/dcssr_example.png
+.. |dcssr_example.m5f| replace:: :download:`dcssr_example.m5f <../../../examples/ednex/unit/dcssr/dcssr_example.m5f>`
+
+.. |get_i2c_ssr_status.png| image:: ../static/unit/dcssr/get_i2c_ssr_status.png
+.. |get_i2c_status.png| image:: ../static/unit/dcssr/get_i2c_status.png
+.. |get_modbus_ssr_status.png| image:: ../static/unit/dcssr/get_modbus_ssr_status.png
+.. |get_modbus_status.png| image:: ../static/unit/dcssr/get_modbus_status.png
+.. |init_i2c_address.png| image:: ../static/unit/dcssr/init_i2c_address.png
+.. |init_modbus.png| image:: ../static/unit/dcssr/init_modbus.png
+.. |set_i2c_address.png| image:: ../static/unit/dcssr/set_i2c_address.png
+.. |set_i2c_rgb_led.png| image:: ../static/unit/dcssr/set_i2c_rgb_led.png
+.. |set_i2c_ssr_state.png| image:: ../static/unit/dcssr/set_i2c_ssr_state.png
+.. |set_modbus_address.png| image:: ../static/unit/dcssr/set_modbus_address.png
+.. |set_modbus_rgb_led.png| image:: ../static/unit/dcssr/set_modbus_rgb_led.png
+.. |set_modbus_ssr_state.png| image:: ../static/unit/dcssr/set_modbus_ssr_state.png
+.. |init_mode.png| image:: ../static/unit/dcssr/init_mode.png
+.. |get_i2c_rgb_led.png| image:: ../static/unit/dcssr/get_i2c_rgb_led.png
+.. |get_modbus_rgb_led.png| image:: ../static/unit/dcssr/get_modbus_rgb_led.png

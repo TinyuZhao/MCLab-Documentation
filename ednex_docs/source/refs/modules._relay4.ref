@@ -1,0 +1,11 @@
+.. |relay4_example.m5f| replace:: :download:`relay4_example.m5f <../../../examples/ednex/module/relay4/relay4_example.m5f>`
+.. |relay4_example.png| image:: ../static/module/relay4/relay4_example.png
+.. |get_adc_12bit_value.png| image:: ../static/module/relay4/get_adc_12bit_value.png
+.. |get_adc_8bit_value.png| image:: ../static/module/relay4/get_adc_8bit_value.png
+.. |get_relay_status.png| image:: ../static/module/relay4/get_relay_status.png
+.. |init_i2c_address.png| image:: ../static/module/relay4/init_i2c_address.png
+.. |set_all_relay_state.png| image:: ../static/module/relay4/set_all_relay_state.png
+.. |set_i2c_address.png| image:: ../static/module/relay4/set_i2c_address.png
+.. |set_relay_state.png| image:: ../static/module/relay4/set_relay_state.png
+.. |get_8bit_voltage_value.png| image:: ../static/module/relay4/get_8bit_voltage_value.png
+.. |get_12bit_voltage_value.png| image:: ../static/module/relay4/get_12bit_voltage_value.png

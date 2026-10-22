@@ -1,0 +1,16 @@
+.. |init.png| image:: ../static/iot_cloud/azure/init_iothub.png
+.. |start.png| image:: ../static/iot_cloud/azure/start.png
+.. |subscribe_C2D_message.png| image:: ../static/iot_cloud/azure/subscribe_C2D_message.png
+.. |publish_D2C_message.png| image:: ../static/iot_cloud/azure/publish_D2C_message.png
+.. |subscribe_direct_method.png| image:: ../static/iot_cloud/azure/subscribe_direct_method.png
+.. |response_direct_method.png| image:: ../static/iot_cloud/azure/subscribe_direct_method.png
+.. |subscribe_twin_reported_response.png| image:: ../static/blockly-placeholder.svg
+.. |subscribe_twin_desired_response.png| image:: ../static/iot_cloud/azure/subscribe_twin_desired_response.png
+.. |update_twin_reported_properties.png| image:: ../static/iot_cloud/azure/update_twin_reported_properties.png
+.. |retrieve_twin_properties.png| image:: ../static/iot_cloud/azure/retrieve_twin_properties.png
+.. |direct_method_cb.png| image:: ../static/blockly-placeholder.svg
+.. |retrieve_twin_properties_cb.png| image:: ../static/blockly-placeholder.svg
+.. |on_property_update.png| image:: ../static/blockly-placeholder.svg
+.. |desired_twin_properties_cb.png| image:: ../static/blockly-placeholder.svg
+.. |azure_classic_example.png| image:: ../static/iot_cloud/azure/azure_classic_example.png
+.. |azure_classic_example.m5f| replace:: :download:`azure_classic_example.m5f <../../../examples/ednex/iot_cloud/azure_classic/azure_classic_example.m5f>`

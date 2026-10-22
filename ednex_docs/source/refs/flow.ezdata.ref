@@ -1,0 +1,13 @@
+.. |setData.png| image:: https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/assets/img/uiflow/blockly/ezdate/uiflow_block_ezdata_set_key_with_token.svg
+.. |setDataAsync.png| image:: https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/assets/img/uiflow/blockly/ezdate/uiflow_block_ezdata_async_set_value.svg
+.. |getData.png| image:: https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/assets/img/uiflow/blockly/ezdate/uiflow_block_ezdata_get_key_with_token.svg
+.. |getDataAsync.png| image:: https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/assets/img/uiflow/blockly/ezdate/uiflow_block_ezdata_async_get_value.svg
+.. |removeData.png| image:: https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/assets/img/uiflow/blockly/ezdate/uiflow_block_ezdata_remove_key_with_token.svg
+.. |removeDataAsync.png| image:: https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/assets/img/uiflow/blockly/ezdate/uiflow_block_ezdata_async_remove.svg
+.. |addToList.png| image:: https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/assets/img/uiflow/blockly/ezdate/uiflow_block_ezdata_add_value_with_token.svg
+.. |addToListAsync.png| image:: https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/assets/img/uiflow/blockly/ezdate/uiflow_block_ezdata_async_set_list_value.svg
+.. |getCurrentISODateTime.png| image:: https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/assets/img/uiflow/blockly/ezdate/uiflow_block_ezdata_get_iso_date.svg
+.. |getCurrentISODateTimeAsync.png| image:: https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/assets/img/uiflow/blockly/ezdate/uiflow_block_ezdata_async_get_iso_date.svg
+.. |startQueue.png| image:: https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/assets/img/uiflow/blockly/ezdate/uiflow_block_ezdata_async_set_value.svg
+.. |ezdata_example.m5f| replace:: :download:`ezdata_example.m5f <../../../examples/ednex/ezdata/ezdata/ezdata_example.m5f>`
+.. |ezdata_example.png| image:: ../static/ezdata/ezdata_example.png

@@ -1,0 +1,7 @@
+.. |flow_statements.png| image:: ../static/generic/loops/flow_statements.png
+.. |forEach.png| image:: ../static/generic/loops/forEach.png
+.. |range.png| image:: ../static/generic/loops/range.png
+.. |repeat.png| image:: ../static/generic/loops/repeat.png
+.. |while.png| image:: ../static/generic/loops/while.png
+.. |loops_example.m5f| replace:: :download:`loops_example.m5f <../../../examples/ednex/generic/loops/loops_example.m5f>`
+.. |loops_example.png| image:: ../static/generic/loops/loops_example.png

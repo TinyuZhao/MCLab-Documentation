@@ -1,0 +1,41 @@
+.. |ai_camera_v2_get_color.m5f| replace:: :download:`ai_camera_v2_get_color.m5f <../../../examples/ednex/MCLab/ai_camera_v2/ai_camera_v2_get_color.m5f>`
+.. |ai_camera_v2_find_face.m5f| replace:: :download:`ai_camera_v2_find_face.m5f <../../../examples/ednex/MCLab/ai_camera_v2/ai_camera_v2_find_face.m5f>`
+.. |ai_camera_v2_find_recongized_face.m5f| replace:: :download:`ai_camera_v2_find_recongized_face.m5f <../../../examples/ednex/MCLab/ai_camera_v2/ai_camera_v2_find_recongized_face.m5f>`
+.. |ai_camera_v2_scan_qrcode.m5f| replace:: :download:`ai_camera_v2_scan_qrcode.m5f <../../../examples/ednex/MCLab/ai_camera_v2/ai_camera_v2_scan_qrcode.m5f>`
+.. |ai_camera_v2_track_color.m5f| replace:: :download:`ai_camera_v2_track_color.m5f <../../../examples/ednex/MCLab/ai_camera_v2/ai_camera_v2_track_color.m5f>`
+.. |ai_camera_v2_track_lines.m5f| replace:: :download:`ai_camera_v2_track_lines.m5f <../../../examples/ednex/MCLab/ai_camera_v2/ai_camera_v2_track_lines.m5f>`
+.. |ai_camera_v2_track_objects.m5f| replace:: :download:`ai_camera_v2_track_objects.m5f <../../../examples/ednex/MCLab/ai_camera_v2/ai_camera_v2_track_objects.m5f>`
+.. |ai_camera_v2_track_tag.m5f| replace:: :download:`ai_camera_v2_track_tag.m5f <../../../examples/ednex/MCLab/ai_camera_v2/ai_camera_v2_track_tag.m5f>`
+
+.. |ai_camera_v2_get_color_example.png| image:: ../static/mclab/ai_camera_v2/ai_camera_v2_get_color_example.png
+.. |ai_camera_v2_find_face_example.png| image:: ../static/mclab/ai_camera_v2/ai_camera_v2_find_face_example.png
+.. |ai_camera_v2_find_recongized_face_example.png| image:: ../static/mclab/ai_camera_v2/ai_camera_v2_find_recongized_face_example.png
+.. |ai_camera_v2_scan_qrcode_example.png| image:: ../static/mclab/ai_camera_v2/ai_camera_v2_scan_qrcode_example.png
+.. |ai_camera_v2_track_color_example.png| image:: ../static/mclab/ai_camera_v2/ai_camera_v2_track_color_example.png
+.. |ai_camera_v2_track_lines_example.png| image:: ../static/mclab/ai_camera_v2/ai_camera_v2_track_lines_example.png
+.. |ai_camera_v2_track_objects_example.png| image:: ../static/mclab/ai_camera_v2/ai_camera_v2_track_objects_example.png
+.. |ai_camera_v2_track_tag_example.png| image:: ../static/mclab/ai_camera_v2/ai_camera_v2_track_tag_example.png
+.. |get_color_rgb.png| image:: ../static/mclab/ai_camera_v2/get_color_rgb.png
+.. |get_current_mode.png| image:: ../static/mclab/ai_camera_v2/get_current_mode.png
+.. |get_deep_learning_result.png| image:: ../static/mclab/ai_camera_v2/get_deep_learning_result.png
+.. |get_face.png| image:: ../static/mclab/ai_camera_v2/get_face.png
+.. |get_face_attributes.png| image:: ../static/mclab/ai_camera_v2/get_face_attributes.png
+.. |get_face_count.png| image:: ../static/mclab/ai_camera_v2/get_face_count.png
+.. |get_lines.png| image:: ../static/mclab/ai_camera_v2/get_lines.png
+.. |get_object20.png| image:: ../static/mclab/ai_camera_v2/get_object20.png
+.. |get_object20_count.png| image:: ../static/mclab/ai_camera_v2/get_object20_count.png
+.. |get_qrcode.png| image:: ../static/mclab/ai_camera_v2/get_qrcode.png
+.. |get_recognized_face.png| image:: ../static/mclab/ai_camera_v2/get_recognized_face.png
+.. |get_recognized_face_count.png| image:: ../static/mclab/ai_camera_v2/get_recognized_face_count.png
+.. |get_tag.png| image:: ../static/mclab/ai_camera_v2/get_tag.png
+.. |get_tag_count.png| image:: ../static/mclab/ai_camera_v2/get_tag_count.png
+.. |get_tracked_color_block.png| image:: ../static/mclab/ai_camera_v2/get_tracked_color_block.png
+.. |get_traffic_sign.png| image:: ../static/mclab/ai_camera_v2/get_traffic_sign.png
+.. |get_traffic_sign_num.png| image:: ../static/mclab/ai_camera_v2/get_traffic_sign_num.png
+.. |init.png| image:: ../static/mclab/ai_camera_v2/init.png
+.. |set_light_brightness.png| image:: ../static/mclab/ai_camera_v2/set_light_brightness.png
+.. |set_light_enabled.png| image:: ../static/mclab/ai_camera_v2/set_light_enabled.png
+.. |set_tracking_color_id.png| image:: ../static/mclab/ai_camera_v2/set_tracking_color_id.png
+.. |set_work_mode.png| image:: ../static/mclab/ai_camera_v2/set_work_mode.png
+.. |start_deep_learning.png| image:: ../static/mclab/ai_camera_v2/start_deep_learning.png
+.. |start_face_learning.png| image:: ../static/mclab/ai_camera_v2/start_face_learning.png

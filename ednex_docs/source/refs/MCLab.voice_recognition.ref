@@ -1,0 +1,10 @@
+.. |voice_recognition.m5f| replace:: :download:`voice_recognition.m5f <../../../examples/ednex/MCLab/voice_recognition/voice_recognition.m5f>`
+.. |voice_recognition_example.png| image:: ../static/mclab/voice_recognition/voice_recognition_example.png
+
+.. |get_voice_recognize_command.png| image:: ../static/mclab/voice_recognition/get_voice_recognize_command.png
+.. |get_voice_recognize_wakeup_status.png| image:: ../static/mclab/voice_recognition/get_voice_recognize_wakeup_status.png
+.. |init.png| image:: ../static/mclab/voice_recognition/init.png
+.. |set_voice_recognize_cb.png| image:: ../static/mclab/voice_recognition/set_voice_recognize_cb.png
+.. |set_voice_recognize_loop.png| image:: ../static/mclab/voice_recognition/set_voice_recognize_loop.png
+.. |set_voice_recognize_wakeup_timeout.png| image:: ../static/mclab/voice_recognition/set_voice_recognize_wakeup_timeout.png
+.. |clean_voice_recognize_wakeup_status.png| image:: ../static/mclab/voice_recognition/clean_voice_recognize_wakeup_status.png

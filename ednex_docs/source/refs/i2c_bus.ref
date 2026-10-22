@@ -1,0 +1,17 @@
+.. |i2c_master_example.png| image:: ../static/hardware/i2c_master/i2c_master_example.png
+.. |i2c_master_example.m5f| replace:: :download:`i2c_master_example.m5f <../../../examples/ednex/hardware/i2c_master/i2c_master_example.m5f>`
+.. |get.png| image:: ../static/hardware/i2c_master/get.png
+.. |set_pins.png| image:: ../static/hardware/i2c_master/set_pins.png
+.. |set_slave_addr.png| image:: ../static/hardware/i2c_master/set_slave_addr.png
+.. |write_u8.png| image:: ../static/hardware/i2c_master/write_u8.png
+.. |read_u8.png| image:: ../static/hardware/i2c_master/read_u8.png
+.. |read_reg.png| image:: ../static/hardware/i2c_master/read_reg.png
+.. |write_data.png| image:: ../static/hardware/i2c_master/write_data.png
+.. |read_data.png| image:: ../static/hardware/i2c_master/read_data.png
+.. |scan.png| image:: ../static/hardware/i2c_master/scan.png
+.. |available.png| image:: ../static/hardware/i2c_master/available.png
+.. |write_u16.png| image:: ../static/hardware/i2c_master/write_u16.png
+.. |read_u16.png| image:: ../static/hardware/i2c_master/read_u16.png
+.. |write_mem_data.png| image:: ../static/hardware/i2c_master/write_mem_data.png
+.. |read_mem_data.png| image:: ../static/hardware/i2c_master/read_mem_data.png
+.. |write_mem_list.png| image:: ../static/hardware/i2c_master/write_mem_list.png

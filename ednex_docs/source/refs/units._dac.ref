@@ -1,0 +1,5 @@
+.. |dac_example.png| image:: ../static/unit/dac/dac_example.png
+.. |dac_example.m5f| replace:: :download:`dac_example.m5f <../../../examples/ednex/unit/dac/dac_example.m5f>`
+
+.. |writeData.png| image:: ../static/unit/dac/writeData.png
+.. |setVoltage.png| image:: ../static/unit/dac/setVoltage.png

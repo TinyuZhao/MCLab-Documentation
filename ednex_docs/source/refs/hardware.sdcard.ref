@@ -1,0 +1,8 @@
+.. |init.png| image:: ../static/hardware/sdcard/init.png
+.. |listdir.png| image:: ../static/hardware/sdcard/listdir.png
+.. |mkdir.png| image:: ../static/hardware/sdcard/mkdir.png
+.. |open.png| image:: ../static/hardware/sdcard/open.png
+.. |remove.png| image:: ../static/hardware/sdcard/remove.png
+.. |rmdir.png| image:: ../static/hardware/sdcard/rmdir.png
+.. |sdcard_example.png| image:: ../static/hardware/sdcard/sdcard_example.png
+.. |sdcard_example.m5f| replace:: :download:`sdcard_example.m5f <../../../examples/ednex/hardware/sdcard/sdcard_example.m5f>`

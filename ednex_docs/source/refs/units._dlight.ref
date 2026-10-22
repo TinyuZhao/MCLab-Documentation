@@ -1,0 +1,7 @@
+.. |dlight_example.png| image:: ../static/unit/dlight/dlight_example.png
+.. |dlight_example.m5f| replace:: :download:`dlight_example.m5f <../../../examples/ednex/unit/dlight/dlight_example.m5f>`
+
+.. |get_lux.png| image:: ../static/unit/dlight/get_lux.png
+.. |set_mode.png| image:: ../static/unit/dlight/set_mode.png
+.. |set_continous_mode.png| image:: ../static/unit/dlight/set_continous_mode.png
+.. |set_one_shot_mode.png| image:: ../static/unit/dlight/set_one_shot_mode.png

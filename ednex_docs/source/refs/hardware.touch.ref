@@ -1,0 +1,6 @@
+.. |read.png| image:: ../static/hardware/touch/read.png
+.. |read_x.png| image:: ../static/hardware/touch/read_x.png
+.. |read_y.png| image:: ../static/hardware/touch/read_y.png
+.. |status.png| image:: ../static/hardware/touch/status.png
+.. |touch_example.png| image:: ../static/hardware/touch/touch_example.png
+.. |touch_example.m5f| replace:: :download:`touch_example.m5f <../../../examples/ednex/hardware/touch/touch_example.m5f>`

@@ -1,0 +1,8 @@
+.. |pahub_example.png| image:: ../static/unit/pahub/pahub_example.png
+.. |pahub_example.m5f| replace:: :download:`pahub_example.m5f <../../../examples/ednex/unit/pahub/pahub_example.m5f>`
+
+.. |select.png| image:: ../static/unit/pahub/select.png
+.. |select_only_on.png| image:: ../static/unit/pahub/select_only_on.png
+.. |select_port.png| image:: ../static/unit/pahub/select_port.png
+.. |set_select_input.png| image:: ../static/unit/pahub/set_select_input.png
+.. |set_select_only_on_input.png| image:: ../static/unit/pahub/set_select_only_on_input.png

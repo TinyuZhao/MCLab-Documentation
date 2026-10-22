@@ -1,0 +1,6 @@
+.. |ir_example.png| image:: ../static/unit/ir/ir_example.png
+.. |ir_example.m5f| replace:: :download:`ir_example.m5f <../../../examples/ednex/unit/ir/ir_example.m5f>`
+
+.. |rxStatus.png| image:: ../static/unit/ir/rxStatus.png
+.. |txOn.png| image:: ../static/unit/ir/txOn.png
+.. |txOff.png| image:: ../static/unit/ir/txOff.png

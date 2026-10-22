@@ -1,0 +1,14 @@
+.. |init_timezone.png| image:: ../static/advanced/advanced_ntp/init_timezone.png
+.. |getTimestamp.png| image:: ../static/advanced/advanced_ntp/getTimestamp.png
+.. |formatDate.png| image:: ../static/advanced/advanced_ntp/formatDate.png
+.. |formatTime.png| image:: ../static/advanced/advanced_ntp/formatTime.png
+.. |formatDatetime.png| image:: ../static/advanced/advanced_ntp/formatDatetime.png
+.. |year.png| image:: ../static/advanced/advanced_ntp/year.png
+.. |month.png| image:: ../static/advanced/advanced_ntp/month.png
+.. |day.png| image:: ../static/advanced/advanced_ntp/day.png
+.. |weekday.png| image:: ../static/advanced/advanced_ntp/weekday.png
+.. |hour.png| image:: ../static/advanced/advanced_ntp/hour.png
+.. |minute.png| image:: ../static/advanced/advanced_ntp/minute.png
+.. |second.png| image:: ../static/advanced/advanced_ntp/second.png
+.. |ntp_example.m5f| replace:: :download:`ntp.m5f <../../../examples/ednex/advanced/ntp/ntp_example.m5f>`
+.. |ntp_example.png| image:: ../static/advanced/ntp/ntp_example.png

@@ -1,0 +1,5 @@
+.. |request.png| image:: ../static/advanced/http/http_request.png
+.. |text.png| image:: ../static/advanced/http/get_data.png
+.. |get_status_code.png| image:: ../static/advanced/http/get_status_code.png
+.. |http_example.m5f| replace:: :download:`http.m5f <../../../examples/ednex/advanced/http/http_example.m5f>`
+.. |http_example.png| image:: ../static/advanced/http/http_example.png

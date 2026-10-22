@@ -1,0 +1,5 @@
+.. |laser_tx_example.png| image:: ../static/unit/laser_tx/laser_tx_example.png
+.. |laser_tx_example.m5f| replace:: :download:`laser_tx_example.m5f <../../../examples/ednex/unit/laser_tx/laser_tx_example.m5f>`
+
+.. |on.png| image:: ../static/unit/laser_tx/on.png
+.. |off.png| image:: ../static/unit/laser_tx/off.png

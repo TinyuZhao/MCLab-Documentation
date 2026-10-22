@@ -1,0 +1,9 @@
+.. |relay4_example.png| image:: ../static/unit/relay4/relay4_example.png
+.. |relay4_example.m5f| replace:: :download:`relay4_example.m5f <../../../examples/ednex/unit/relay4/relay4_example.m5f>`
+
+.. |get_mode.png| image:: ../static/unit/relay4/get_mode.png
+.. |get_led_status.png| image:: ../static/unit/relay4/get_led_status.png
+.. |get_relay_status.png| image:: ../static/unit/relay4/get_relay_status.png
+.. |set_mode.png| image:: ../static/unit/relay4/set_mode.png
+.. |set_led_status.png| image:: ../static/unit/relay4/set_led_status.png
+.. |set_relay_status.png| image:: ../static/unit/relay4/set_relay_status.png

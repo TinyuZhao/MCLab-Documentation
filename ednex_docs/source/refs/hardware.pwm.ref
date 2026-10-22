@@ -1,0 +1,8 @@
+.. |duty.png| image:: ../static/hardware/pwm/duty.png
+.. |freq.png| image:: ../static/hardware/pwm/freq.png
+.. |hold_us.png| image:: ../static/hardware/pwm/hold_us.png
+.. |init.png| image:: ../static/hardware/pwm/init.png
+.. |pause.png| image:: ../static/hardware/pwm/pause.png
+.. |resume.png| image:: ../static/hardware/pwm/resume.png
+.. |pwm_example.png| image:: ../static/hardware/pwm/pwm_example.png
+.. |pwm_example.m5f| replace:: :download:`pwm_example.m5f <../../../examples/ednex/hardware/pwm/pwm_example.m5f>`

@@ -1,0 +1,6 @@
+.. |init.png| image:: ../static/advanced/advanced_pin_servo/init.png
+.. |write_angle.png| image:: ../static/advanced/advanced_pin_servo/write_angle.png
+.. |write_us.png| image:: ../static/advanced/advanced_pin_servo/write_us.png
+.. |deinit.png| replace:: (No Blockly image published for deinit.)
+.. |pin_servo_example.m5f| replace:: :download:`pin_servo.m5f <../../../examples/ednex/advanced/pin_servo/pin_servo_example.m5f>`
+.. |pin_servo_example.png| image:: ../static/advanced/pin_servo/pin_servo_example.png

@@ -1,0 +1,5 @@
+.. |light_example.png| image:: ../static/unit/light/light_example.png
+.. |light_example.m5f| replace:: :download:`light_example.m5f <../../../examples/ednex/unit/light/light_example.m5f>`
+
+.. |analogValue.png| image:: ../static/unit/light/analogValue.png
+.. |digitalValue.png| image:: ../static/unit/light/digitalValue.png

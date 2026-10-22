@@ -1,0 +1,16 @@
+.. |gps_example.png| image:: ../static/unit/gps/gps_example.png
+.. |gps_example.m5f| replace:: :download:`gps_example.m5f <../../../examples/ednex/unit/gps/gps_example.m5f>`
+
+.. |set_time_zone.png| image:: ../static/unit/gps/set_time_zone.png
+.. |uart_port_id.png| image:: ../static/unit/gps/uart_port_id.png
+.. |get_latitude.png| image:: ../static/unit/gps/get_latitude.png
+.. |get_longitude.png| image:: ../static/unit/gps/get_longitude.png
+.. |get_latitude_decimal.png| image:: ../static/unit/gps/get_latitude_decimal.png
+.. |get_longitude_decimal.png| image:: ../static/unit/gps/get_longitude_decimal.png
+.. |get_altitude.png| image:: ../static/unit/gps/get_altitude.png
+.. |get_satellite_num.png| image:: ../static/unit/gps/get_satellite_num.png
+.. |get_positioning_quality.png| image:: ../static/unit/gps/get_positioning_quality.png
+.. |get_course.png| image:: ../static/unit/gps/get_course.png
+.. |get_speed.png| image:: ../static/unit/gps/get_speed.png
+.. |speed_knot.png| image:: ../static/unit/gps/get_speed.png
+.. |get_date.png| image:: ../static/unit/gps/get_date.png

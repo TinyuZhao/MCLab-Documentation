@@ -1,0 +1,7 @@
+.. |rfid_example.png| image:: ../static/unit/rfid/rfid_example.png
+.. |rfid_example.m5f| replace:: :download:`rfid_example.m5f <../../../examples/ednex/unit/rfid/rfid_example.m5f>`
+
+.. |readBlockStr.png| image:: ../static/unit/rfid/readBlockStr.png
+.. |writeBlock.png| image:: ../static/unit/rfid/writeBlock.png
+.. |isCardOn.png| image:: ../static/unit/rfid/isCardOn.png
+.. |readUid.png| image:: ../static/unit/rfid/readUid.png
